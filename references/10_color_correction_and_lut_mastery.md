@@ -75,3 +75,4 @@ ffmpeg -i raw_clip.mov -vf "
 
 * `colorbalance`: Adds subtle warmth in shadows and midtones while pulling blue down.
 * `curves`: Softens shadow crush and rolls off extreme highlight glare.
+

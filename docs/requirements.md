@@ -115,3 +115,4 @@ Status: `verified` (checked by multi-agent critic and automated integration test
 | E3 | Claude / Antigravity must understand the skill well enough to use it. | `SKILL.md` | verified |
 | E4 | Fit for public release. | `README.md`, `LICENSE`, `requirements.txt` | verified |
 | E5 | Nothing in the brief is skipped (this table). | `docs/requirements.md` (all 32 requirements verified) | verified |
+

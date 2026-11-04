@@ -67,3 +67,4 @@ Extract 16 kHz mono audio and run Whisper (Hindi / Multilingual model) to identi
 * **Bihari Folk Phrases**: `माटकोर` (Matkor), `हरदी` (Hardi), `परिछन` (Parichhan), `कोहबर` (Kohbar), `विदाई` (Vidai).
 
 Flag clips containing these keywords with high-priority ratings in your NLE for trailer voiceover placement.
+

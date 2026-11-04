@@ -86,3 +86,4 @@ Assigning Audio Roles enables one-click sub-mix exports and automated ducking in
 2. Go to **File -> Import -> XML...** (`Cmd + Shift + I`).
 3. Select the generated `.fcpxml` file.
 4. FCPX automatically creates an Event housing the imported project with all clip edits, transitions, speed ramps, and chapter markers populated on the magnetic timeline!
+
