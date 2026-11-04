@@ -1,0 +1,24 @@
+# Core dependencies for the Indian & Bihari Wedding Video Editing Framework.
+# Everything in this file is needed for ingest, beat detection, audio cleanup,
+# edit planning and FCPXML generation. ffmpeg and ffprobe must also be on PATH.
+ffmpeg-python>=0.2.0
+lxml>=4.9.0
+numpy>=1.22.0
+tqdm>=4.64.0
+
+# ---------------------------------------------------------------------------
+# Optional: speech-to-text for scripts/transcribe.py
+#
+# Needed only for the transcription step itself. Audio extraction and all of
+# the geet / mantra / speech labelling work without these. Install one:
+#
+#   pip install faster-whisper      # recommended, much faster on CPU
+#   pip install openai-whisper
+#
+# ---------------------------------------------------------------------------
+# Optional: face recognition for scripts/faces.py
+#
+# Needed only to detect and embed faces. The clustering, identity assignment
+# and screen-time auditing all run on embeddings from any source.
+#
+#   pip install insightface onnxruntime
