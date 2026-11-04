@@ -32,6 +32,22 @@ TIMEBASE = 25  # Standard 25 fps broadcast PAL/Indian standard (or 24 for cinema
 # directly-resolvable URLs without committing your local paths.
 PLACEHOLDER_MEDIA_ROOT = "/Volumes/WEDDING_MEDIA"
 
+# FCPXML schema version written into the document.
+#
+# Final Cut Pro imports older FCPXML revisions, so 1.10 is read by current
+# versions rather than rejected; what an older revision costs is access to
+# newer elements, not compatibility. It is set here, and overridable with
+# --fcpxml-version, because the right value depends on the Final Cut Pro the
+# timeline is destined for and should not be buried in the code.
+#
+# To confirm what your own Final Cut Pro writes, export any project as FCPXML
+# and read the version attribute on the root <fcpxml> element:
+#
+#     head -3 /path/to/export.fcpxml
+#
+# Set that value here if it is newer than this default.
+DEFAULT_FCPXML_VERSION = "1.10"
+
 # Required runtime of each deliverable, taken from the owner's brief:
 #   teaser  1-3 minutes
 #   trailer 5-10 minutes
@@ -98,16 +114,17 @@ def to_file_url(file_path: str, media_root: str | None = None) -> str:
 
 class FCPXMLBuilder:
     def __init__(self, project_name: str, width: int = 3840, height: int = 2160, fps: int = TIMEBASE,
-                 media_root: str | None = None):
+                 media_root: str | None = None, fcpxml_version: str = DEFAULT_FCPXML_VERSION):
         self.project_name = project_name
         self.width = width
         self.height = height
         self.fps = fps
         self.media_root = media_root
+        self.fcpxml_version = fcpxml_version
         self.frame_dur = f"1/{fps}s"
         
         # Root element
-        self.root = ET.Element("fcpxml", version="1.10")
+        self.root = ET.Element("fcpxml", version=fcpxml_version)
         self.resources = ET.SubElement(self.root, "resources")
         
         # Define master video format
@@ -225,6 +242,58 @@ class FCPXMLBuilder:
         
         output_path.write_text(final_doc, encoding="utf-8")
         print(f"[✓] FCPXML exported successfully: {output_path} ({round(self.timeline_duration, 1)}s duration)")
+
+
+def build_from_edl(edl_path: Path, output_path: Path, media_root: str | None = None,
+                   strict: bool = False,
+                   fcpxml_version: str = DEFAULT_FCPXML_VERSION) -> Path:
+    """Build a timeline from an EDL produced by plan_edit.py.
+
+    This is the real path from a wedding's rushes to a Final Cut Pro timeline.
+    The build_*_timeline functions below assemble hardcoded demo shot lists with
+    invented filenames; they are useful for checking the FCPXML shape, but they
+    are not an edit of anybody's wedding. Use this with a planned EDL instead.
+    """
+    edl = json.loads(Path(edl_path).read_text(encoding="utf-8"))
+    kind = edl.get("deliverable", "master")
+    fps = int(edl.get("fps") or TIMEBASE)
+
+    builder = FCPXMLBuilder(
+        project_name=f"Bihari_Wedding_{kind.capitalize()}",
+        fps=fps,
+        media_root=media_root,
+        fcpxml_version=fcpxml_version,
+    )
+
+    events = edl.get("events", [])
+    if not events:
+        raise ValueError(
+            f"{edl_path} contains no events. Plan the edit first with "
+            f"plan_edit.py, and check that your clips are tagged to rituals."
+        )
+
+    for ev in events:
+        path = ev.get("path")
+        if not path:
+            raise ValueError(f"EDL event for clip {ev.get('clip_id')} has no media path.")
+        name_bits = [ev.get("ritual") or kind, ev.get("clip_id") or ""]
+        builder.add_clip_to_timeline(
+            file_path=path,
+            clip_name="_".join(b for b in name_bits if b),
+            start_sec=float(ev.get("source_in", 0.0)),
+            duration_sec=float(ev.get("duration", 0.0)),
+            markers=ev.get("markers"),
+        )
+
+    # Carry the planner's own warnings through to whoever exports the timeline,
+    # so an out-of-spec or incomplete plan is not quietly turned into an XML
+    # file that looks finished.
+    for issue in edl.get("issues", []):
+        print(f"[!] from plan: {issue}")
+
+    builder.assert_spec(kind, strict=strict)
+    builder.write_to_file(output_path)
+    return output_path
 
 
 def build_teaser_timeline(output_path: Path, hero_clips: list[dict] | None = None,
@@ -385,6 +454,14 @@ def build_master_documentary_timeline(output_path: Path, media_root: str | None 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate Final Cut Pro XML (FCPXML v1.10) for Indian/Bihari weddings.")
     parser.add_argument("--type", choices=["teaser", "trailer", "master", "all"], default="all", help="Deliverable type")
+    parser.add_argument("--edl", type=Path, default=None,
+                        help="Build from a planned EDL (from plan_edit.py) instead of the "
+                             "built-in demo shot lists. This is the real path for an actual wedding.")
+    parser.add_argument("--strict", action="store_true",
+                        help="Fail if the assembled timeline is outside its required runtime")
+    parser.add_argument("--fcpxml-version", default=DEFAULT_FCPXML_VERSION,
+                        help=f"FCPXML schema version to write (default {DEFAULT_FCPXML_VERSION}). "
+                             "Confirm yours with: head -3 <an FCPXML exported from your Final Cut Pro>")
     parser.add_argument("--out", type=str, default="./exports_fcpxml", help="Output directory")
     parser.add_argument(
         "--media-root", type=str, default=None,
@@ -395,6 +472,14 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     out_dir = Path(args.out)
+
+    if args.edl:
+        edl_name = json.loads(args.edl.read_text(encoding="utf-8")).get("deliverable", "edit")
+        build_from_edl(args.edl, out_dir / f"Bihari_Wedding_{edl_name.capitalize()}.fcpxml",
+                       media_root=args.media_root, strict=args.strict,
+                       fcpxml_version=args.fcpxml_version)
+        sys.exit(0)
+
     if args.type in ["teaser", "all"]:
         build_teaser_timeline(out_dir / "Bihari_Wedding_Teaser_1080p.fcpxml", media_root=args.media_root)
     if args.type in ["trailer", "all"]:
