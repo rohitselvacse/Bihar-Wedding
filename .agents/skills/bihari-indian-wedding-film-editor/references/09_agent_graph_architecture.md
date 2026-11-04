@@ -67,3 +67,4 @@ flowchart TD
   3. **Pacing & Beat Test**: Do cut points align with musical downbeats?
   4. **FCPXML Schema Test**: Does the generated XML pass DTD validation without syntax errors?
 * If any test fails, feedback is routed back to the offending agent in an automated correction loop.
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+<fcpxml version="1.10">
+  <resources>
+    <format id="r1" name="FFVideoFormat2160p25" frameDuration="1/25s" width="3840" height="2160"/>
+    <asset id="r2" name="Drone_Venue.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Drone_Venue.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r3" name="Bride_Mirror.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Bride_Mirror.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r4" name="Groom_Ready.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Groom_Ready.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r5" name="Matkor_Courtyard.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Matkor_Courtyard.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r6" name="Haldi_Splash.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Haldi_Splash.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r7" name="Sangeet_Dance.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Sangeet_Dance.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r8" name="Baraat_Entry.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Baraat_Entry.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r9" name="Parichan_Nose.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Parichan_Nose.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r10" name="Jaimala_Pyro.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Jaimala_Pyro.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r11" name="Saat_Phere.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Saat_Phere.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r12" name="Sindoor_Daan.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Sindoor_Daan.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r13" name="Kohbar_Games.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Kohbar_Games.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r14" name="Vidai_Rice.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Vidai_Rice.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r15" name="Griha_Pravesh.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Griha_Pravesh.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r16" name="Reception_Hero.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Reception_Hero.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+  </resources>
+  <library>
+    <event name="Bihari Wedding Master Event">
+      <project name="Bihari_Wedding_Cinematic_Teaser_4K">
+        <sequence format="r1" duration="1050/25s" tcStart="0s" tcFormat="NDF">
+          <spine>
+            <asset-clip name="01_Drone_Patna_Ganga_Ghat_Intro" ref="r2" offset="0/25s" duration="75/25s" start="50/25s" format="r1"/>
+            <asset-clip name="02_Bride_Jewelry_Mirror_Reflection" ref="r3" offset="75/25s" duration="62/25s" start="25/25s" format="r1"/>
+            <asset-clip name="03_Groom_Sherwani_Cufflinks_Walk" ref="r4" offset="138/25s" duration="50/25s" start="100/25s" format="r1"/>
+            <asset-clip name="04_Matkor_Sacred_Earth_Digging" ref="r5" offset="188/25s" duration="62/25s" start="0/25s" format="r1"/>
+            <asset-clip name="05_Haldi_Splash_120fps_SlowMo" ref="r6" offset="250/25s" duration="75/25s" start="125/25s" format="r1">
+              <marker start="38/25s" duration="1/25s" value="Beat Drop" note=""/>
+            </asset-clip>
+            <asset-clip name="06_Sangeet_Dance_Floor_Jump" ref="r7" offset="325/25s" duration="50/25s" start="250/25s" format="r1"/>
+            <asset-clip name="07_Baraat_Dhol_Energy_Toran" ref="r8" offset="375/25s" duration="62/25s" start="300/25s" format="r1"/>
+            <asset-clip name="08_MotherInLaw_NoseCatching_Parichan" ref="r9" offset="438/25s" duration="50/25s" start="38/25s" format="r1"/>
+            <asset-clip name="09_Jaimala_Garland_Exchange_Pyro" ref="r10" offset="488/25s" duration="88/25s" start="150/25s" format="r1">
+              <marker start="50/25s" duration="1/25s" value="Fireworks Swell" note=""/>
+            </asset-clip>
+            <asset-clip name="10_Mandap_Agni_Kund_Sparks" ref="r11" offset="575/25s" duration="62/25s" start="375/25s" format="r1"/>
+            <asset-clip name="11_Sindoor_Daan_Nose_to_Maang_Macro" ref="r12" offset="638/25s" duration="112/25s" start="75/25s" format="r1">
+              <marker start="62/25s" duration="1/25s" value="Sindoor Climax" note=""/>
+            </asset-clip>
+            <asset-clip name="12_Kohbar_Ring_Finding_Game_Smile" ref="r13" offset="750/25s" duration="50/25s" start="200/25s" format="r1"/>
+            <asset-clip name="13_Vidai_Rice_Throw_Mother_Tears" ref="r14" offset="800/25s" duration="88/25s" start="100/25s" format="r1"/>
+            <asset-clip name="14_Griha_Pravesh_Alta_Footprints" ref="r15" offset="888/25s" duration="62/25s" start="25/25s" format="r1"/>
+            <asset-clip name="15_Reception_Stage_Hero_Couple_Smile" ref="r16" offset="950/25s" duration="100/25s" start="250/25s" format="r1"/>
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>

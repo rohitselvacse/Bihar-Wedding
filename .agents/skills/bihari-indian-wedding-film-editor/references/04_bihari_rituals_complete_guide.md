@@ -163,3 +163,4 @@ A traditional Bihari wedding (*Saddi / Shaadi / Vivah*) is not merely a legal or
   * Bride and groom sit on an opulent floral stage. Hundreds of guests queue up to offer floral bouquets, gift envelopes (*Lifafa*), and seek formal photos.
 * **Filming & Editing Focus**:
   * Glamour, lighting, stage design, VIP guest interactions, family portraits, and candid laughter.
+

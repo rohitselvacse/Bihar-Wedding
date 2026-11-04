@@ -42,3 +42,4 @@ For 5–10 minute Cinematic Trailers, using a single repetitive track causes vie
 5. **Track 3 (The Emotional Vow & Sacred Resolution)**:
    * Mood: Grand orchestral strings with traditional Indian melody (*Dilbaro* or *O Re Piya* climax).
    * Visual alignment: Sindoor Daan, fire circumnavigation (Saat Phere), Vidai embrace, slow-motion smile into sunset.
+

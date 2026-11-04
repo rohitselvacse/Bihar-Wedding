@@ -91,3 +91,4 @@ flowchart TD
 * Apply film grain, subtle halation on jewelry/lights, and ritual-specific LUTs.
 * Clean live folk geet vocals using spectral isolation; balance background music ducking against vows and pandit mantras.
 * Export high-bitrate master (ProRes 422 or H.265 Master 4K @ 50 Mbps).
+

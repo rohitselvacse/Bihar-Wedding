@@ -99,3 +99,4 @@ To transform a standard highlight reel into a cinematic masterpiece, weave spoke
   * Groom sharing the first time he realized she was the one.
   * Bride expressing gratitude for her parents' unconditional love.
 * **Audio Layering Rule**: Duck the cinematic music bed by **-16 dB** when spoken dialogue occurs. Leave 0.8 seconds of musical breath before and after each quote.
+

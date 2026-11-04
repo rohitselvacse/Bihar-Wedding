@@ -184,3 +184,4 @@ if __name__ == "__main__":
     orchestrator = WeddingEditGraphOrchestrator(Path(args.work))
     success = orchestrator.execute_graph_pipeline()
     sys.exit(0 if success else 1)
+

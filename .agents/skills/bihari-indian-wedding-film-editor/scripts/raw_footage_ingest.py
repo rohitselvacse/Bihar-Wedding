@@ -180,3 +180,4 @@ if __name__ == "__main__":
     parser.add_argument("--work", type=str, default="./work_output", help="Output directory for job logs")
     args = parser.parse_args()
     ingest_footage(Path(args.root), Path(args.work))
+

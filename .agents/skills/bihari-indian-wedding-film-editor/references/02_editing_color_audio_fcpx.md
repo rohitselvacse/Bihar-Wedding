@@ -111,3 +111,4 @@ When elder women sing traditional folk songs in the courtyard during Matkor or H
 ### B. Speech, Vows & Pandit Mantras
 * Apply **Adaptive Audio Ducking**: When the Pandit chants Sanskrit mantras or the father speaks emotional words, the background cinematic score must automatically duck down by **-14 dB to -18 dB** with a 400ms smooth release.
 * Limiter on Master Voice track set to **-1.5 dB True Peak** to avoid distortion during loud megaphone/microphone cheers.
+

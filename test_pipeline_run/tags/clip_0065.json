@@ -1,0 +1,14 @@
+{
+  "clip_id": "clip_0065",
+  "ritual_phase": "10_sindoor_daan",
+  "duration": 8.5,
+  "subjects": [
+    "G01",
+    "B01",
+    "BM01",
+    "BF01",
+    "GM01",
+    "GF01"
+  ],
+  "emotion": "sacred"
+}

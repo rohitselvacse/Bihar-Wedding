@@ -103,3 +103,4 @@ if __name__ == "__main__":
         print("\n=== Sample Ducking Keyframes for Pandit Chanting (Speech at 5.0-15.0s, 22.0-35.0s) ===")
         speech = [(5.0, 15.0), (22.0, 35.0)]
         print(json.dumps(calculate_ducking_keyframes(speech, 60.0), indent=2))
+

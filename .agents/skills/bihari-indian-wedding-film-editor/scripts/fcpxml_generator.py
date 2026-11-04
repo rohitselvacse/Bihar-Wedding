@@ -282,3 +282,4 @@ if __name__ == "__main__":
         build_trailer_timeline(out_dir / "Bihari_Wedding_Trailer_Cinematic.fcpxml")
     if args.type in ["master", "all"]:
         build_master_documentary_timeline(out_dir / "Bihari_Wedding_Master_Documentary.fcpxml")
+

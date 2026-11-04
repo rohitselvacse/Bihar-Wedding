@@ -81,3 +81,4 @@ This document defines the industry-standard taxonomy, visual grammar, pacing, ca
   11. Griha Pravesh & Post-Wedding Games (15 min)
   12. Grand Reception & Bahubhoj Stage Blessings (30 min)
   13. Credits & Blooper Reel (5 min)
+

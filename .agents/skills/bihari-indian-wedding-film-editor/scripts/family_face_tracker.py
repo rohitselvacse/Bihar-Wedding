@@ -183,3 +183,4 @@ if __name__ == "__main__":
 
     audit = audit_character_continuity(wdir / "tags")
     print(json.dumps(audit, indent=2))
+

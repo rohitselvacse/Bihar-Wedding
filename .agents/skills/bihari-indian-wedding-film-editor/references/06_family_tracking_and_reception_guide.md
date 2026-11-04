@@ -75,3 +75,4 @@ Banquet halls in Patna and regional cities often feature high-contrast LED flood
 ### D. Intercutting Pangat & Dining Moments
 * Intercut stage photography with the lavish wedding dinner (*Pangat* / Buffet).
 * Film the live cooking counters: authentic Bihari delicacies (Litti Chokha, Malpua, fresh Jalebis, Dal Puri) and guests relishing food in warm conversation.
+
