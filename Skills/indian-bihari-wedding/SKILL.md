@@ -4,7 +4,7 @@ description: >-
   Master video editing framework for Indian and Bihari weddings (Patna/Mithila/Magadh/Bhojpuri).
   Use when editing raw wedding footage (500-1000 clips, 100-200GB, 6-7 hours), ingesting multi-camera media,
   tracking family members across clips, restoring live courtyard folk geet (Sharda Sinha vivah geet),
-  balancing Sanskrit Vedic mantras, and generating Apple Final Cut Pro XML (FCPXML v1.10) timelines for
+  balancing Sanskrit Vedic mantras, and generating Apple Final Cut Pro XML timelines for
   Teaser (1-3 min), Cinematic Trailer (5-10 min), and Master Documentary (1-3 hours).
 ---
 
@@ -14,46 +14,141 @@ This skill turns Antigravity into an elite Indian and Bihari wedding film direct
 
 ---
 
-## 1. Quick Start Operational Workflow
+## 1. Operational workflow
 
-When raw wedding footage arrives, follow this 5-stage automated pipeline:
+Each stage writes into one job folder and reads what the stage before it wrote,
+so you can stop after any stage and inspect the result. Every script takes the
+same `--work` path.
 
-### Step 1: Ingest & Probe Raw Footage
-Run the ingestion engine to scan 500–1000 clips, calculate persistent SHA-1 IDs, read video formats/codecs, and organize into ritual folders:
+### Step 1 - Ingest the rushes
+
+Scan the footage, assign each file a stable id from its path, and read its real
+format with ffprobe.
+
 ```bash
 python3 scripts/raw_footage_ingest.py --root /path/to/raw_footage --work ./wedding_job
 ```
-*Outputs*: `clips.jsonl` (one entry per media file) and `inventory.json` (runtime & size breakdown).
 
-### Step 2: Audit Family Character Continuity
-Run the face and character auditor to verify that the Groom, Bride, Parents, and Siblings are balanced and no VIP relative is missed:
+Writes `clips.jsonl`, one line per media file.
+
+### Step 2 - Transcribe, and find the geet and the mantras
+
+Extracts 16 kHz audio, transcribes it, and labels every segment as geet, mantra
+or speech, so you know which minutes of a seven-hour rush hold the family's
+singing and the pandit's recitation.
+
+```bash
+python3 scripts/transcribe.py --work ./wedding_job --model small
+```
+
+Writes `transcripts/<clip>.json` with `geet_spans` and `mantra_spans`. Needs
+`pip install faster-whisper`. Use `--extract-only` to prepare the audio without
+transcribing.
+
+### Step 3 - Match people across clips
+
+Samples frames, embeds faces, and clusters them so one cluster is one person.
+Clusters come out anonymous and ranked by screen presence; name the ones you
+recognise and rerun, and the rest of the pipeline then works in role codes.
+
+```bash
+python3 scripts/faces.py --work ./wedding_job
+python3 scripts/faces.py --work ./wedding_job --name person_001=B01 --name person_002=G01
+```
+
+Writes `faces/people.json`, the per-clip tag files the auditor reads, and
+`faces/coverage_audit.json` flagging anyone at risk of being cut. Needs
+`pip install insightface onnxruntime opencv-python-headless`. Use
+`--sample-only` to extract frames without detection.
+
+### Step 4 - Map the songs
+
+Measures tempo, a beat grid and energy sections for each song you plan to cut
+against.
+
+```bash
+python3 scripts/beats.py /path/to/songs/*.mp3 --work ./wedding_job
+```
+
+Writes `songs/<name>.json`. It reports `steady_tempo: false` for live geet with
+no regular pulse; those are cut to transcript phrases instead of a beat grid.
+
+### Step 5 - Check who might be left out
+
 ```bash
 python3 scripts/family_face_tracker.py --work ./wedding_job
 ```
-*Outputs*: Screen-time breakdown (Groom's family vs. Bride's family) and flags any underrepresented characters.
 
-### Step 3: Audio Restoration for Live Courtyard Folk Geet
-Clean outdoor courtyard women's singing (*Matkor Geet*, *Hardi Hardiya*, *Samdhauni*) and priest Sanskrit mantras:
+Reports screen time per role. It audits the tag files written in step 3, so run
+that first; with no tags it correctly reports everybody as missing.
+
+### Step 6 - Clean the audio
+
 ```bash
 python3 scripts/audio_cleanup_pipeline.py --test
 ```
-*Chain*: 80 Hz High-Pass Filter -> 50 Hz Mains Hum Notch -> Mud Cut @ 320 Hz -> Voice Isolation -> -16 dB Adaptive Music Ducking.
 
-### Step 4: Generate Apple Final Cut Pro Timelines (FCPXML v1.10)
-Generate broadcast-ready FCPXML files for immediate import into Apple Final Cut Pro:
+Chain: 80 Hz high-pass, 50 Hz mains notch, 320 Hz mud cut, presence lift, and
+-16 dB ducking under speech and mantras.
+
+### Step 7 - Plan the edit
+
+Turns everything above into an edit decision list for each deliverable: rituals
+in calendar order, cuts on the beat, and every known person kept in the cut.
+
 ```bash
-python3 scripts/fcpxml_generator.py --type all --out ./wedding_job/out
+python3 scripts/plan_edit.py --work ./wedding_job --type all
 ```
-*Outputs*:
-* `Bihari_Wedding_Teaser_1080p.fcpxml` (1–3 min fast-paced cuts, speed ramps, beat markers)
-* `Bihari_Wedding_Trailer_Cinematic.fcpxml` (5–10 min 3-act narrative, voiceovers, beat-synced mashup)
-* `Bihari_Wedding_Master_Documentary.fcpxml` (1–3 hours full chronological documentary with 16 ritual chapters)
 
-### Step 5: Execute Autonomous Multi-Agent Graph Loop
-Run the complete multi-agent graph with automated QA verification and correction loops:
+Writes `edl/teaser.json`, `edl/trailer.json` and `edl/master.json`. It prints
+any problem it finds rather than planning around it: a deliverable outside its
+required runtime, a person who never appears, clips that matched no ritual. Add
+`--strict` to fail instead of warn.
+
+### Step 8 - Export for Final Cut Pro
+
+```bash
+python3 scripts/fcpxml_generator.py --edl ./wedding_job/edl/master.json \
+    --out ./wedding_job/out --media-root /Volumes/WEDDING_MEDIA
+```
+
+`--media-root` is where your footage lives; relative clip paths resolve against
+it. Without it a machine-neutral placeholder is written and Final Cut Pro asks
+you to relink, which is deliberate: generated files must never carry your own
+home directory into a shared repository.
+
+Confirm the schema version your Final Cut Pro writes, and pass it if it differs
+from the default:
+
+```bash
+head -3 /path/to/any-export-from-your-fcp.fcpxml
+python3 scripts/fcpxml_generator.py --edl ... --fcpxml-version 1.13
+```
+
+Run without `--edl` to produce demo timelines from built-in shot lists. Those
+are for checking the FCPXML shape only; they are not an edit of anybody's
+wedding.
+
+### Optional - run the stages in sequence
+
 ```bash
 python3 scripts/agent_graph_orchestrator.py --work ./wedding_job
 ```
+
+A convenience runner over the stages above. Its QA step checks data produced
+earlier in the same run, so treat its result as a smoke test, not verification.
+
+### Checking the reference library
+
+The 165 reference videos in `references/` and `library/cards/` have never been
+checked against YouTube. Before relying on them:
+
+```bash
+python3 scripts/validate_video_library.py
+```
+
+See `docs/requirements.md` for what is implemented, what is documentation only,
+and what is still missing.
 
 ---
 
@@ -92,3 +187,4 @@ Detailed reference manuals are available in `references/`:
 * [07_chronological_assembly_pipeline.md](./references/07_chronological_assembly_pipeline.md) — Storage directory hierarchy and 5-phase editing assembly.
 * [08_video_library_150.md](./references/08_video_library_150.md) — Curated master library of 165 analyzed YouTube wedding films and tutorials.
 * [09_agent_graph_architecture.md](./references/09_agent_graph_architecture.md) — Graph topology, node roles, and QA verification loops.
+
