@@ -32,6 +32,47 @@ TIMEBASE = 25  # Standard 25 fps broadcast PAL/Indian standard (or 24 for cinema
 # directly-resolvable URLs without committing your local paths.
 PLACEHOLDER_MEDIA_ROOT = "/Volumes/WEDDING_MEDIA"
 
+# Required runtime of each deliverable, taken from the owner's brief:
+#   teaser  1-3 minutes
+#   trailer 5-10 minutes
+#   master  1-3 hours, depending on how many rituals were covered
+#
+# These are asserted after a timeline is built. An earlier version of this
+# generator shipped a 42-second "teaser" and a 175-second "trailer" while its
+# own comments claimed 90 and 360 seconds, because nothing ever checked the
+# assembled result against the spec. Keep the check, not just the comment.
+DELIVERABLE_SPECS = {
+    "teaser": {"min_sec": 60.0, "max_sec": 180.0, "label": "Teaser (1-3 min)"},
+    "trailer": {"min_sec": 300.0, "max_sec": 600.0, "label": "Trailer (5-10 min)"},
+    "master": {"min_sec": 3600.0, "max_sec": 10800.0, "label": "Master film (1-3 h)"},
+}
+
+
+class DeliverableSpecError(ValueError):
+    """Raised when an assembled timeline does not meet its required runtime."""
+
+
+def check_deliverable_duration(kind: str, duration_sec: float, strict: bool = False) -> tuple[bool, str]:
+    """Validate an assembled timeline against the brief's runtime spec.
+
+    Returns (ok, message). With strict=True an out-of-spec timeline raises
+    instead, so a bad edit plan fails loudly rather than being quietly exported.
+    """
+    spec = DELIVERABLE_SPECS.get(kind)
+    if not spec:
+        return True, f"No runtime spec defined for '{kind}'; skipping check."
+
+    lo, hi = spec["min_sec"], spec["max_sec"]
+    if lo <= duration_sec <= hi:
+        return True, f"{spec['label']}: {duration_sec:.1f}s is within spec ({lo:.0f}-{hi:.0f}s)."
+
+    how = "short of" if duration_sec < lo else "over"
+    msg = (f"{spec['label']} is out of spec: {duration_sec:.1f}s, "
+           f"{how} the required {lo:.0f}-{hi:.0f}s.")
+    if strict:
+        raise DeliverableSpecError(msg)
+    return False, msg
+
 
 def to_fcp_time(seconds: float, fps: int = TIMEBASE) -> str:
     """Convert float seconds to rational time string (e.g. '125/25s' or '5s')."""
@@ -162,6 +203,12 @@ class FCPXMLBuilder:
         # Update sequence duration
         self.sequence.set("duration", to_fcp_time(self.timeline_duration, self.fps))
 
+    def assert_spec(self, kind: str, strict: bool = False) -> bool:
+        """Check the assembled timeline against its deliverable runtime spec."""
+        ok, msg = check_deliverable_duration(kind, self.timeline_duration, strict=strict)
+        print(("[✓] " if ok else "[!] ") + msg)
+        return ok
+
     def write_to_file(self, output_path: Path):
         """Serialize XML with proper declaration and indentation."""
         output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -185,25 +232,61 @@ def build_teaser_timeline(output_path: Path, hero_clips: list[dict] | None = Non
     """Build a 1-to-3 minute fast-paced cinematic teaser timeline with beat sync."""
     builder = FCPXMLBuilder(project_name="Bihari_Wedding_Cinematic_Teaser_4K", media_root=media_root)
     
-    # 90-second standard high-impact teaser
+    # ~96-second teaser: a cold-open hook, a beat-synced ritual montage covering
+    # the full arc, the sindoor climax, then the reception button. Shot count and
+    # pacing are sized to land inside the 60-180s spec, which is asserted below.
     default_shots = [
-        {"name": "01_Drone_Patna_Ganga_Ghat_Intro", "path": "Media/Drone_Venue.mov", "dur": 3.0, "start": 2.0},
-        {"name": "02_Bride_Jewelry_Mirror_Reflection", "path": "Media/Bride_Mirror.mov", "dur": 2.5, "start": 1.0},
-        {"name": "03_Groom_Sherwani_Cufflinks_Walk", "path": "Media/Groom_Ready.mov", "dur": 2.0, "start": 4.0},
-        {"name": "04_Matkor_Sacred_Earth_Digging", "path": "Media/Matkor_Courtyard.mov", "dur": 2.5, "start": 0.0},
-        {"name": "05_Haldi_Splash_120fps_SlowMo", "path": "Media/Haldi_Splash.mov", "dur": 3.0, "start": 5.0, "markers": [{"time_offset": 1.5, "label": "Beat Drop"}]},
-        {"name": "06_Sangeet_Dance_Floor_Jump", "path": "Media/Sangeet_Dance.mov", "dur": 2.0, "start": 10.0},
-        {"name": "07_Baraat_Dhol_Energy_Toran", "path": "Media/Baraat_Entry.mov", "dur": 2.5, "start": 12.0},
-        {"name": "08_MotherInLaw_NoseCatching_Parichan", "path": "Media/Parichan_Nose.mov", "dur": 2.0, "start": 1.5},
-        {"name": "09_Jaimala_Garland_Exchange_Pyro", "path": "Media/Jaimala_Pyro.mov", "dur": 3.5, "start": 6.0, "markers": [{"time_offset": 2.0, "label": "Fireworks Swell"}]},
-        {"name": "10_Mandap_Agni_Kund_Sparks", "path": "Media/Saat_Phere.mov", "dur": 2.5, "start": 15.0},
-        {"name": "11_Sindoor_Daan_Nose_to_Maang_Macro", "path": "Media/Sindoor_Daan.mov", "dur": 4.5, "start": 3.0, "markers": [{"time_offset": 2.5, "label": "Sindoor Climax"}]},
-        {"name": "12_Kohbar_Ring_Finding_Game_Smile", "path": "Media/Kohbar_Games.mov", "dur": 2.0, "start": 8.0},
-        {"name": "13_Vidai_Rice_Throw_Mother_Tears", "path": "Media/Vidai_Rice.mov", "dur": 3.5, "start": 4.0},
-        {"name": "14_Griha_Pravesh_Alta_Footprints", "path": "Media/Griha_Pravesh.mov", "dur": 2.5, "start": 1.0},
-        {"name": "15_Reception_Stage_Hero_Couple_Smile", "path": "Media/Reception_Hero.mov", "dur": 4.0, "start": 10.0}
+        # Cold open: place and anticipation
+        {"name": "01_Drone_Patna_Ganga_Ghat_Dawn", "path": "Media/Drone_Venue.mov", "dur": 3.5, "start": 2.0},
+        {"name": "02_Courtyard_Marigold_Macro", "path": "Media/Decor_Marigold.mov", "dur": 2.0, "start": 1.0},
+        {"name": "03_Bride_Jewelry_Mirror_Reflection", "path": "Media/Bride_Mirror.mov", "dur": 2.5, "start": 1.0},
+        {"name": "04_Bride_Eyes_Kajal_Closeup", "path": "Media/Bride_Eyes.mov", "dur": 2.0, "start": 3.0},
+        {"name": "05_Groom_Sherwani_Cufflinks_Walk", "path": "Media/Groom_Ready.mov", "dur": 2.5, "start": 4.0},
+        {"name": "06_Groom_Safa_Pagdi_Tying", "path": "Media/Groom_Pagdi.mov", "dur": 2.0, "start": 2.0},
+        # Pre-wedding rites
+        {"name": "07_Cheka_Tilak_Thali_Handover", "path": "Media/Cheka_Tilak.mov", "dur": 2.5, "start": 1.0},
+        {"name": "08_Matkor_Sacred_Earth_Digging", "path": "Media/Matkor_Courtyard.mov", "dur": 3.0, "start": 0.0},
+        {"name": "09_Matkor_Women_Geet_Procession", "path": "Media/Matkor_Geet.mov", "dur": 3.0, "start": 2.0},
+        {"name": "10_Marava_Bamboo_Canopy_Raising", "path": "Media/Marava_Setup.mov", "dur": 2.5, "start": 1.0},
+        {"name": "11_Silpohka_Imrit_Grinding_Hands", "path": "Media/Silpohka.mov", "dur": 2.0, "start": 1.0},
+        # Haldi and mehndi
+        {"name": "12_Haldi_Splash_120fps_SlowMo", "path": "Media/Haldi_Splash.mov", "dur": 3.0, "start": 5.0,
+         "markers": [{"time_offset": 1.5, "label": "Beat Drop"}]},
+        {"name": "13_Haldi_Elder_Suhagan_Smear", "path": "Media/Haldi_Elders.mov", "dur": 2.5, "start": 3.0},
+        {"name": "14_Haldi_Laughter_Wide_Family", "path": "Media/Haldi_Family.mov", "dur": 2.0, "start": 6.0},
+        {"name": "15_Mehndi_Henna_Cone_Macro", "path": "Media/Mehndi_Hands.mov", "dur": 2.5, "start": 2.0},
+        {"name": "16_Sangeet_Dance_Floor_Jump", "path": "Media/Sangeet_Dance.mov", "dur": 2.5, "start": 10.0,
+         "markers": [{"time_offset": 1.0, "label": "Beat Hit"}]},
+        {"name": "17_Sangeet_Cousins_Spin_Lights", "path": "Media/Sangeet_Lights.mov", "dur": 2.0, "start": 14.0},
+        # Baraat and jaimala
+        {"name": "18_Baraat_Dhol_Energy_Toran", "path": "Media/Baraat_Entry.mov", "dur": 3.0, "start": 12.0},
+        {"name": "19_Baraat_Brass_Band_Night", "path": "Media/Baraat_Band.mov", "dur": 2.5, "start": 8.0},
+        {"name": "20_Dwar_Puja_Aarti_Thali", "path": "Media/Dwar_Puja.mov", "dur": 2.5, "start": 1.0},
+        {"name": "21_MotherInLaw_NoseCatching_Parichan", "path": "Media/Parichan_Nose.mov", "dur": 2.5, "start": 1.5},
+        {"name": "22_Jaimala_Garland_Exchange_Pyro", "path": "Media/Jaimala_Pyro.mov", "dur": 3.5, "start": 6.0,
+         "markers": [{"time_offset": 2.0, "label": "Fireworks Swell"}]},
+        {"name": "23_Jaimala_Lift_Crowd_Cheer", "path": "Media/Jaimala_Lift.mov", "dur": 2.5, "start": 4.0},
+        # Mandap: the sacred core
+        {"name": "24_Kanyadaan_Joined_Hands_Water", "path": "Media/Kanyadaan.mov", "dur": 3.0, "start": 2.0},
+        {"name": "25_Gathbandhan_Knot_Tying", "path": "Media/Gathbandhan.mov", "dur": 2.5, "start": 1.0},
+        {"name": "26_Mandap_Agni_Kund_Sparks", "path": "Media/Saat_Phere.mov", "dur": 3.0, "start": 15.0},
+        {"name": "27_Saat_Phere_Feet_Steps", "path": "Media/Phere_Feet.mov", "dur": 2.5, "start": 3.0},
+        {"name": "28_Sindoor_Daan_Nose_to_Maang_Macro", "path": "Media/Sindoor_Daan.mov", "dur": 4.5, "start": 3.0,
+         "markers": [{"time_offset": 2.5, "label": "Sindoor Climax"}]},
+        {"name": "29_Mangalsutra_Clasp_Closeup", "path": "Media/Mangalsutra.mov", "dur": 2.5, "start": 1.0},
+        # Kohbar, vidai, arrival
+        {"name": "30_Chumawan_Elder_Blessing_Rice", "path": "Media/Chumawan.mov", "dur": 2.5, "start": 2.0},
+        {"name": "31_Kohbar_Ring_Finding_Game_Smile", "path": "Media/Kohbar_Games.mov", "dur": 2.5, "start": 8.0},
+        {"name": "32_Vidai_Rice_Throw_Mother_Tears", "path": "Media/Vidai_Rice.mov", "dur": 4.0, "start": 4.0,
+         "markers": [{"time_offset": 2.0, "label": "Emotional Peak"}]},
+        {"name": "33_Vidai_Car_Window_Hands", "path": "Media/Vidai_Car.mov", "dur": 2.5, "start": 1.0},
+        {"name": "34_Griha_Pravesh_Alta_Footprints", "path": "Media/Griha_Pravesh.mov", "dur": 2.5, "start": 1.0},
+        # Reception button
+        {"name": "35_Reception_Hall_Light_Reveal", "path": "Media/Reception_Hall.mov", "dur": 2.5, "start": 3.0},
+        {"name": "36_Reception_Stage_Hero_Couple_Smile", "path": "Media/Reception_Hero.mov", "dur": 4.5, "start": 10.0,
+         "markers": [{"time_offset": 2.0, "label": "Title Card"}]},
     ]
-    
+
     shots = hero_clips if hero_clips else default_shots
     for s in shots:
         builder.add_clip_to_timeline(
@@ -213,7 +296,8 @@ def build_teaser_timeline(output_path: Path, hero_clips: list[dict] | None = Non
             duration_sec=s.get("dur", 3.0),
             markers=s.get("markers")
         )
-        
+
+    builder.assert_spec("teaser")
     builder.write_to_file(output_path)
     return output_path
 
