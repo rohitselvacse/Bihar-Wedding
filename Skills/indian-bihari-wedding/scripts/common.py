@@ -28,7 +28,6 @@ from pathlib import Path
 
 SKILL_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = SKILL_DIR / "data"
-VENV_PY = Path.home() / "video-env" / "bin" / "python"
 
 VIDEO_EXT = {".mp4", ".mov", ".mts", ".m2ts", ".mxf", ".avi", ".mkv", ".m4v", ".3gp", ".mpg", ".mpeg", ".wmv", ".webm"}
 AUDIO_EXT = {".wav", ".mp3", ".m4a", ".aac", ".flac", ".aif", ".aiff", ".ogg", ".wma"}
