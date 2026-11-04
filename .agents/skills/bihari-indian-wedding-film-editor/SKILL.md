@@ -91,6 +91,26 @@ python3 scripts/audio_cleanup_pipeline.py --test
 Chain: 80 Hz high-pass, 50 Hz mains notch, 320 Hz mud cut, presence lift, and
 -16 dB ducking under speech and mantras.
 
+### Step 6b - Measure exposure and colour
+
+Reads each clip's luma and chroma with ffmpeg and groups clips that need the
+same correction, because the unit of grading work is the setup rather than the
+clip.
+
+```bash
+python3 scripts/grade.py --work ./wedding_job
+```
+
+Writes `grade/measurements.json`, `grade/plan.json` and a readable
+`grade/report.md` listing each look, a starting correction in stops, and an
+ffmpeg filter for previewing it. The clips worth your attention are the ones
+that do not match their neighbours.
+
+These are whole-frame averages, so a frame full of red lehenga reads warm
+whether or not the white balance is wrong. Treat a cast reading as evidence,
+not a verdict, and apply the grade in Final Cut Pro so it stays
+non-destructive. Skin tone is not judged here; follow `references/10`.
+
 ### Step 7 - Plan the edit
 
 Turns everything above into an edit decision list for each deliverable: rituals

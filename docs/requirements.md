@@ -23,14 +23,15 @@ is marked `done` unless a test exercises it.
 ## Current state at a glance
 
 * Working, tested code: ingest, beat and tempo mapping, transcription with
-  geet/mantra/speech labelling, same-person matching across clips, edit
-  planning, and FCPXML export driven by that plan.
+  geet/mantra/speech labelling, same-person matching across clips, exposure and
+  colour measurement with grade grouping, edit planning, and FCPXML export
+  driven by that plan.
 * Domain knowledge: 16 rituals with running order and hero moments, 22 Bihari
   folk geet, 20 pan-Indian songs, 13 reference documents.
 * Principal gaps: no transcripts or thumbnails for the 165 reference videos,
   whose ids have never been checked against YouTube; card shot breakdowns are
-  template-generated; no colour grading tooling; research track T5 has no
-  videos.
+  template-generated; research track T5 has no videos; skin tone is judged by
+  eye rather than measured in the face regions.
 
 ## 0. Context
 
@@ -110,7 +111,7 @@ is marked `done` unless a test exercises it.
 | ID | Requirement | Covered in | Status |
 |----|-------------|-----------|--------|
 | R8.1 | Do the whole editing journey. | `scripts/plan_edit.py` → `scripts/fcpxml_generator.py --edl` | done |
-| R8.2 | Apply the rules from parts 1–7. | `scripts/plan_edit.py` | partial — ritual order, song beats and people coverage are applied; colour and grading are not |
+| R8.2 | Apply the rules from parts 1–7. | `scripts/plan_edit.py`, `scripts/grade.py` | partial — ritual order, song beats and people coverage are applied automatically; the grade is measured and grouped but applied by the colourist, not by the planner |
 | R8.3 | Decide sequence, length and songs. | `scripts/plan_edit.py` | done |
 
 ## 9. Three deliverables and finishing
@@ -121,7 +122,7 @@ is marked `done` unless a test exercises it.
 | R9.2 | Teaser 1–3 minutes of the best shots. | `plan_teaser()` | done — planned at 97s in tests, and the runtime is asserted |
 | R9.3 | Trailer 5–10 minutes on a song or mashup, cut on the beats. | `plan_trailer()`, `scripts/beats.py` | done — planned at 362s; beat grid measured, cuts snapped to within one frame |
 | R9.4 | Master film in ritual sequence, 1–3 hours. | `plan_master()` | done — planned at 2.3 h with a chapter per ritual |
-| R9.5 | Colour correction, grading, lighting, music and video sync are critical. | `references/02`, `references/10` | partial — music sync is implemented and tested; colour correction and grading are documented only, with no `grade.py` |
+| R9.5 | Colour correction, grading, lighting, music and video sync are critical. | `scripts/grade.py`, `scripts/beats.py`, `references/02`, `references/10` | partial — music sync, exposure and colour-cast measurement and grade grouping are implemented and tested; skin-tone judgement is still guidance in `references/10` only |
 
 ## 10. The skill
 
@@ -155,6 +156,8 @@ In priority order, because each one gates the next:
    `library/cards/` from real content instead of the template (R2.3, R2.4,
    R7.2, R10.2).
 3. Research track T5: geet, spoken wordings and pandit recitation (R5.5).
-4. Build colour grading tooling so R9.5 is more than a reference document.
+4. Measure skin tone inside the face rectangles `scripts/faces.py` already
+   finds, rather than across the whole frame, so R9.5 covers the part
+   `references/10` cares most about.
 5. Replace the orchestrator with a real agent graph, or stop describing it as
    one (E1, E2).

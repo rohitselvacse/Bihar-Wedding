@@ -43,10 +43,17 @@ HOME_PATH_RE = re.compile(r"file:///(?:Users|home)/([^/\"'\s]+)")
 TEXT_SUFFIXES = {".md", ".json", ".py", ".fcpxml", ".txt", ".jsonl", ".yml", ".yaml"}
 
 
+# This file necessarily contains the path shapes it searches for, so it is
+# excluded from its own scan. Any other test that needs such a sample should
+# build it at runtime rather than writing one as a literal.
+SELF_NAME = Path(__file__).name
+
+
 def tracked_files() -> list[Path]:
     out = subprocess.run(["git", "ls-files"], cwd=BASE_DIR,
                          capture_output=True, text=True, check=True)
-    return [BASE_DIR / line for line in out.stdout.splitlines() if line.strip()]
+    return [BASE_DIR / line for line in out.stdout.splitlines()
+            if line.strip() and Path(line).name != SELF_NAME]
 
 
 class TestNoLocalPathsCommitted(unittest.TestCase):
@@ -80,8 +87,14 @@ class TestNoLocalPathsCommitted(unittest.TestCase):
 
 
     def test_the_check_would_catch_a_real_leak(self):
-        """Guard the guard: a permissive pattern would make this suite useless."""
-        real = 'src="file:///Users/indiaglobalexponews/Library/CloudStorage/x.mov"'
+        """Guard the guard: a permissive pattern would make this suite useless.
+
+        The sample account name is assembled at runtime and is deliberately
+        fictitious. Writing a real one here as a literal would put it back into
+        the repository, which is the exact thing being tested against.
+        """
+        account = "a" + "cct" + "name"  # not a real account, and not a literal
+        real = f'src="file:///Users/{account}/Library/CloudStorage/x.mov"'
         users = [u for u in HOME_PATH_RE.findall(real) if u not in PLACEHOLDER_USERS]
         self.assertTrue(users, "a real account name must still be detected")
         self.assertTrue(any(p.search(real) for p in LOCAL_PATH_PATTERNS))
