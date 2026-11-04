@@ -13,8 +13,13 @@ __pycache__/
 Media/
 Raw_Footage/
 
-# Temporary work directories
+# Temporary work directories and generated test output.
+# These hold machine-specific absolute paths, so they must never be committed.
 test_work_output/
+test_pipeline_run/
+exports_fcpxml/
+wedding_job/
+validation/
 *.tmp
 .DS_Store
 

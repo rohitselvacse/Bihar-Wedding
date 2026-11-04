@@ -13,14 +13,24 @@ from __future__ import annotations
 import argparse
 import html
 import json
-import os
 import sys
 from pathlib import Path
+from urllib.parse import quote
 from xml.dom import minidom
 from xml.etree import ElementTree as ET
 
 # Time math helpers (Final Cut Pro rational time)
 TIMEBASE = 25  # Standard 25 fps broadcast PAL/Indian standard (or 24 for cinema)
+
+# Machine-neutral default root for relative media paths.
+#
+# Asset src URLs must never be resolved against the current working directory:
+# that bakes the operator's own home folder, username and employer into every
+# generated file, and those files get committed. When no media root is supplied
+# we emit this placeholder instead, which Final Cut Pro will simply ask you to
+# relink on import. Point --media-root at your real footage folder to get
+# directly-resolvable URLs without committing your local paths.
+PLACEHOLDER_MEDIA_ROOT = "/Volumes/WEDDING_MEDIA"
 
 
 def to_fcp_time(seconds: float, fps: int = TIMEBASE) -> str:
@@ -29,12 +39,30 @@ def to_fcp_time(seconds: float, fps: int = TIMEBASE) -> str:
     return f"{total_frames}/{fps}s"
 
 
+def to_file_url(file_path: str, media_root: str | None = None) -> str:
+    """Build a percent-encoded file:// URL for an asset, without leaking local paths.
+
+    Absolute paths are honoured as given. Relative paths are resolved against
+    `media_root` (or PLACEHOLDER_MEDIA_ROOT), never against os.getcwd().
+    """
+    p = Path(file_path)
+    if p.is_absolute():
+        abs_path = p
+    else:
+        root = Path(media_root) if media_root else Path(PLACEHOLDER_MEDIA_ROOT)
+        abs_path = root / p
+    # Percent-encode so spaces and non-ASCII characters produce a valid URL.
+    return "file://" + quote(abs_path.as_posix(), safe="/")
+
+
 class FCPXMLBuilder:
-    def __init__(self, project_name: str, width: int = 3840, height: int = 2160, fps: int = TIMEBASE):
+    def __init__(self, project_name: str, width: int = 3840, height: int = 2160, fps: int = TIMEBASE,
+                 media_root: str | None = None):
         self.project_name = project_name
         self.width = width
         self.height = height
         self.fps = fps
+        self.media_root = media_root
         self.frame_dur = f"1/{fps}s"
         
         # Root element
@@ -76,7 +104,7 @@ class FCPXMLBuilder:
         aid = f"r{self.asset_counter}"
         self.asset_counter += 1
         name = Path(file_path).name
-        src_url = f"file://{os.path.abspath(file_path)}"
+        src_url = to_file_url(file_path, self.media_root)
         
         ET.SubElement(
             self.resources, "asset",
@@ -152,9 +180,10 @@ class FCPXMLBuilder:
         print(f"[✓] FCPXML exported successfully: {output_path} ({round(self.timeline_duration, 1)}s duration)")
 
 
-def build_teaser_timeline(output_path: Path, hero_clips: list[dict] | None = None) -> Path:
+def build_teaser_timeline(output_path: Path, hero_clips: list[dict] | None = None,
+                          media_root: str | None = None) -> Path:
     """Build a 1-to-3 minute fast-paced cinematic teaser timeline with beat sync."""
-    builder = FCPXMLBuilder(project_name="Bihari_Wedding_Cinematic_Teaser_4K")
+    builder = FCPXMLBuilder(project_name="Bihari_Wedding_Cinematic_Teaser_4K", media_root=media_root)
     
     # 90-second standard high-impact teaser
     default_shots = [
@@ -189,9 +218,9 @@ def build_teaser_timeline(output_path: Path, hero_clips: list[dict] | None = Non
     return output_path
 
 
-def build_trailer_timeline(output_path: Path) -> Path:
+def build_trailer_timeline(output_path: Path, media_root: str | None = None) -> Path:
     """Build a 5-to-10 minute 3-Act cinematic narrative trailer timeline."""
-    builder = FCPXMLBuilder(project_name="Bihari_Wedding_Cinematic_Trailer_4K")
+    builder = FCPXMLBuilder(project_name="Bihari_Wedding_Cinematic_Trailer_4K", media_root=media_root)
     
     # 3-Act Structure (~360 seconds / 6 minutes)
     act1_roots = [
@@ -229,9 +258,9 @@ def build_trailer_timeline(output_path: Path) -> Path:
     return output_path
 
 
-def build_master_documentary_timeline(output_path: Path) -> Path:
+def build_master_documentary_timeline(output_path: Path, media_root: str | None = None) -> Path:
     """Build a comprehensive 1-to-3 hour master film timeline with full ritual chapters."""
-    builder = FCPXMLBuilder(project_name="Bihari_Wedding_Master_Feature_Film")
+    builder = FCPXMLBuilder(project_name="Bihari_Wedding_Master_Feature_Film", media_root=media_root)
     
     # 16 Cultural Chapters (~5400 seconds / 1.5 hours)
     rituals = [
@@ -273,12 +302,19 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Generate Final Cut Pro XML (FCPXML v1.10) for Indian/Bihari weddings.")
     parser.add_argument("--type", choices=["teaser", "trailer", "master", "all"], default="all", help="Deliverable type")
     parser.add_argument("--out", type=str, default="./exports_fcpxml", help="Output directory")
+    parser.add_argument(
+        "--media-root", type=str, default=None,
+        help=("Absolute path to your raw footage folder, used to resolve relative clip paths. "
+              f"Defaults to the machine-neutral placeholder {PLACEHOLDER_MEDIA_ROOT}, which Final Cut Pro "
+              "will ask you to relink. Never commit generated files that contain your real media root.")
+    )
     args = parser.parse_args()
 
     out_dir = Path(args.out)
     if args.type in ["teaser", "all"]:
-        build_teaser_timeline(out_dir / "Bihari_Wedding_Teaser_1080p.fcpxml")
+        build_teaser_timeline(out_dir / "Bihari_Wedding_Teaser_1080p.fcpxml", media_root=args.media_root)
     if args.type in ["trailer", "all"]:
-        build_trailer_timeline(out_dir / "Bihari_Wedding_Trailer_Cinematic.fcpxml")
+        build_trailer_timeline(out_dir / "Bihari_Wedding_Trailer_Cinematic.fcpxml", media_root=args.media_root)
     if args.type in ["master", "all"]:
-        build_master_documentary_timeline(out_dir / "Bihari_Wedding_Master_Documentary.fcpxml")
+        build_master_documentary_timeline(out_dir / "Bihari_Wedding_Master_Documentary.fcpxml", media_root=args.media_root)
+

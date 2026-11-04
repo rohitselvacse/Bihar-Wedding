@@ -3,22 +3,22 @@
 <fcpxml version="1.10">
   <resources>
     <format id="r1" name="FFVideoFormat2160p25" frameDuration="1/25s" width="3840" height="2160"/>
-    <asset id="r2" name="Drone_Morning.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Drone_Morning.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r3" name="Father_Interview.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Father_Interview.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r4" name="Matkor_Procession.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Matkor_Procession.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r5" name="Marava_Setup.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Marava_Setup.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r6" name="Haldi_Paste.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Haldi_Paste.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r7" name="Mehndi_Hands.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Mehndi_Hands.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r8" name="Baraat_Band.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Baraat_Band.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r9" name="Parichan_Gate.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Parichan_Gate.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r10" name="Sangeet_Dance.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Sangeet_Dance.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r11" name="Jaimala_Stage.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Jaimala_Stage.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r12" name="Kanyadaan_HolyWater.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Kanyadaan_HolyWater.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r13" name="Saat_Phere_Fire.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Saat_Phere_Fire.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r14" name="Sindoor_Daan_Hero.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Sindoor_Daan_Hero.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r15" name="Kohbar_Ring.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Kohbar_Ring.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r16" name="Vidai_Departure.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Vidai_Departure.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
-    <asset id="r17" name="Reception_Stage.mov" src="file:///Users/indiaglobalexponews/Library/CloudStorage/OneDrive-INDIAGLOBALEXPONEWSPLATFORMPRIVATELIMITED/Anti Google Rohit/Anti Video ReSearch/Media/Reception_Stage.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r2" name="Drone_Morning.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Drone_Morning.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r3" name="Father_Interview.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Father_Interview.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r4" name="Matkor_Procession.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Matkor_Procession.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r5" name="Marava_Setup.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Marava_Setup.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r6" name="Haldi_Paste.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Haldi_Paste.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r7" name="Mehndi_Hands.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Mehndi_Hands.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r8" name="Baraat_Band.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Baraat_Band.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r9" name="Parichan_Gate.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Parichan_Gate.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r10" name="Sangeet_Dance.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Sangeet_Dance.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r11" name="Jaimala_Stage.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Jaimala_Stage.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r12" name="Kanyadaan_HolyWater.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Kanyadaan_HolyWater.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r13" name="Saat_Phere_Fire.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Saat_Phere_Fire.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r14" name="Sindoor_Daan_Hero.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Sindoor_Daan_Hero.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r15" name="Kohbar_Ring.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Kohbar_Ring.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r16" name="Vidai_Departure.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Vidai_Departure.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
+    <asset id="r17" name="Reception_Stage.mov" src="file:///Volumes/WEDDING_MEDIA/Media/Reception_Stage.mov" start="0s" duration="1500/25s" hasVideo="1" hasAudio="1" format="r1"/>
   </resources>
   <library>
     <event name="Bihari Wedding Master Event">
