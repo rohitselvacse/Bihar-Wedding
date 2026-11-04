@@ -88,8 +88,8 @@ flowchart LR
 ### 1. Installation
 Clone the repository and install lightweight Python dependencies:
 ```bash
-git clone https://github.com/your-username/bihari-indian-wedding-film-editor.git
-cd bihari-indian-wedding-film-editor
+git clone https://github.com/rohitselvacse/Bihar-Wedding.git
+cd Bihar-Wedding
 pip install -r requirements.txt
 ```
 
