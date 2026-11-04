@@ -1,0 +1,6 @@
+# Python dependencies for Indian & Bihari Wedding Video Editing Framework
+ffmpeg-python>=0.2.0
+lxml>=4.9.0
+numpy>=1.22.0
+tqdm>=4.64.0
+

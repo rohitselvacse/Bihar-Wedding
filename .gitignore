@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Media / Raw Video Archives (Do not push 100-200GB raw video to git)
+*.mp4
+*.mov
+*.mts
+*.m2ts
+*.braw
+*.r3d
+Media/
+Raw_Footage/
+
+# Temporary work directories
+test_work_output/
+*.tmp
+.DS_Store
+
