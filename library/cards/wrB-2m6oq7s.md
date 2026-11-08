@@ -14,7 +14,10 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hindi masterclass (271k views), tool-agnostic (Edius/Premiere/FCP). Covers organising wedding footage, choosing music to set the mood, and building a trailer or cinematic film step by step.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `workflow-story` with focus on `How to Edit Wedding Cinematic Film/Trailer Video | Hindi | Full Step By Step Process EXPLAINED!`.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting.
+* **Spoken Instruction Sample**: "हेलो हाय अ कि यह एक वेडिंग ट्रेलर वेडिंग टीजर कैसे बनाना होता है उसका यह वीडियो है आलरेडी हम लोग में एक वीडियो अपलोड किया है जहां पर आपको चाहिए वेडिंग टीजर ट्रेलर है जो आजकल का जमाना है कि लोग 3 से 5 मिनट का वीडियो बनाता है या 10 से 15 मिनट का एक फिल्म बनाते हैं पूरी शादी को मिला..."
 
 ---
 

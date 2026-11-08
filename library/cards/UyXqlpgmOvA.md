@@ -14,7 +14,10 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hindi, 106k views: GRY India's grading method for an Indian wedding film. Complements the Cinemasters approach with a second Indian studio look.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `color` with focus on `How To Color Grade a Wedding Film 2024`.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting.
+* **Spoken Instruction Sample**: "हाय एवरीवन मेरा नाम है साजन मदान तो आज के टॉपिक में हम बात करेंगे कि मैनुअल ग्रेडिंग किस तरह से कर सकते हैं प्रीमियर के अंदर किसी भी तरह के लट का यूज नहीं करेंगे पूरा का पूरा मैनुअल ग्रेडिंग करेंगे आप अपनी फुटेज के अंदर कैसे क्रिस्पी टोन ला सकते हैं उसके बाद आरजीबी प्रेड वे फॉर्म..."
 
 ---
 

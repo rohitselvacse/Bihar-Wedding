@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hindi, 578k views: how the traditional long-form 'shaadi mixing' (the 1-3 hour master film) is assembled ritual by ritual, with songs laid under each part. This is the North-Indian full-video convention that the brief's master video follows.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `long-form-workflow` workflow with focus on `Wedding Video Mixing Step by step full tutorial in Hindi. Part 1. Shadi ki mixing karna sikhe Hindi.` by *HJ VISUALFX*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
+* **Spoken Instruction Sample**: "हेलो दोस्तों स्वागत है आप सभी का एक बार फिर मैं हिमांशु जोशी और आप देख रहे हैं जो विजुअल इफेक्ट्स आज मैं लेकर आया हूं वेडिंग वीडियो मिक्सिंग कैसे करते हैं तो शादी का अगर आप मिक्सिंग करना चाहते हैं सीखना चाहते हैं तो यह वीडियो एंड तक पहुंच कीजिए यह पहला पार्ट है इसके बाद नेक्स्ट प..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 244s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (244s - 918s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (918s - 1224s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 3m 03s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (3m 03s - 9m 10s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (9m 10s - 16m 19s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (16m 19s - 20m 24s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

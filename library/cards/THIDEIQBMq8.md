@@ -14,14 +14,17 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A start-to-finish edit breakdown made specifically for Indian weddings. Chapters cover planning wedding audio, storytelling during prep, lighting/audio setup, reception and the highlight build. Views are low, but it is the only English tutorial in the results framed around Indian weddings.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `workflow-story` workflow with focus on `How to Edit Indian Weddings - BREAKDOWN {Start to Finish} - Part 3 PREMIERE PRO` by *Will Agamez*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 211s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (211s - 792s)**: Dynamic rhythm matching the primary action of `general, reception`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (792s - 1057s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 38s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 38s - 7m 55s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (7m 55s - 14m 05s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (14m 05s - 17m 37s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

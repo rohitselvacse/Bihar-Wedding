@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hindi, 24 min. Edits both the traditional mixing-style video and the cinematic version of an Indian wedding inside Final Cut Pro, the skill's target NLE. It is the only Hindi FCP wedding-edit tutorial with real length. It may lean on effects, so treat its cutting choices as a reference for the convention, not as a style guide.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `long-form-workflow-fcp` workflow with focus on `Traditional & Cinematic Wedding Editing | Effects Mixing | Final Cut Pro For Beginners` by *AtomX UHD*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
+* **Spoken Instruction Sample**: "नमस्कार दोस्तों ATO मैक्स में आप सभी का स्वागत है और मैं एक बार फिर से नए वीडियो के साथ अपडेट हूं। आज फाइनल कट Pro 11 में बताएंगे कि आप ट्रेडिशनल वीडियो एडिटिंग कैसे कर सकते हैं और ट्रेडिशनल वीडियो एडिटिंग के हमारे पास क्या-क्या पैकेज अवेलेबल है। पहले हम यहां पर अपना फाइनल कट Pro..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 290s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (290s - 1089s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (1089s - 1453s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 3m 37s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (3m 37s - 10m 53s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (10m 53s - 19m 22s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (19m 22s - 24m 13s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

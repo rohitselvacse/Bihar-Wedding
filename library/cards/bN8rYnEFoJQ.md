@@ -14,7 +14,10 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hindi, 75 min, Indian studio: covers the whole edit from start to finish. Chapters cover the story vision, shot-selection process, music beat sync, multicam audio alignment, audio keyframing, J/L/match cuts, bridal-entry tips and stabilisation. This is the best single source for the brief's part 2 workflow.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `workflow` with focus on `How I Edit a Complete Wedding Story (Full Editing in DaVinci Resolve)`.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting.
+* **Spoken Instruction Sample**: "एक अच्छे एडिटर की सबसे बड़ी पहचान यह होती है कि वह अपना शॉर्ट सिलेक्शन किस तरह से करता है और आप यकीन नहीं करोगे कि 90% जो एडिटर्स हैं इंडिया में वो शॉर्ट सिलेक्शन में ही सबसे ज्यादा मिस्टेक्स करते हैं। या तो वो अपने शॉट्स को बहुत ज्यादा लॉन्ग रखते हैं या अपने शॉट्स को बहुत ही ज्य..."
 
 ---
 

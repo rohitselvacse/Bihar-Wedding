@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hindi, 390k views, 75-min masterclass on building an Indian wedding teaser: song choice, cutting on beats, shot order and pacing. Serves part 9 teaser/trailer beat cutting.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `music-edit` workflow with focus on `Wedding teaser editing complete masterclass in Hindi | By mukeshmack` by *Mukeshmack*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
+* **Spoken Instruction Sample**: "हेलो गा दिस इज मुकेश मैक एंड वेलकम टू मुकेश मैक youtube4 मुझे पता है कि आप में से बहुत लोग वेडिंग टीजर के सेकंड पार्ट का वेट कर रहे थे और फाइनली आज का हमारा यह जो वीडियो है यह है वेडिंग टीजर मास्टर क्लास पार्ट नंबर टू तो अगर आप में से कोई डायरेक्टली इस वीडियो को देख रहा है तो मैं..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 902s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (902s - 3384s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (3384s - 4512s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 11m 16s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (11m 16s - 33m 50s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (33m 50s - 60m 09s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (60m 09s - 75m 12s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

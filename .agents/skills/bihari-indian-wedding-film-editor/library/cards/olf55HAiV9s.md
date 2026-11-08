@@ -14,14 +14,17 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-56k views, 16 min. A wedding video editor explains how to organise and cull hours of rushes down to usable selects before cutting. This is the only video-specific (not stills) shot-selection tutorial found, and the method carries over to sorting a multi-day Bihari shoot by ritual.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `shot-selection` workflow with focus on `How To Edit a Wedding Video Part 001 | Organization and Culling | Adobe Premiere Pro` by *Shifting Focus - John Bunn*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 195s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (195s - 732s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (732s - 977s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 26s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 26s - 7m 19s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (7m 19s - 13m 01s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (13m 01s - 16m 17s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

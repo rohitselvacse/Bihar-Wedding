@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Multicam sync by audio and angle switching in Final Cut Pro (114k views). Indian weddings are shot on 2-4 cameras plus drone (jaymala, pheras), so this is a core technique.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `multicam` workflow with focus on `How to Edit Multicam Footage in FCP | The ULTIMATE Guide` by *Brad West*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
+* **Spoken Instruction Sample**: "we're rolling over here we're rolling over there and we're rolling up top let's go does your head ever hurt when you're trying to figure out how to create multi-cam clips or why your multi-cam footage is not syncing or how to efficiently manage all of your clips in a multi-cam wo..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 119s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (119s - 446s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (446s - 595s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 1m 29s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (1m 29s - 4m 27s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (4m 27s - 7m 56s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (7m 56s - 9m 55s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

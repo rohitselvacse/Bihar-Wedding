@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A whole wedding edit in FCP, chaptered by shot type (first shots, action/reaction, details), audio, colour correction and ceremony assembly. It is from 2015 but teaches shot-selection logic in the target NLE.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `workflow-fcp` workflow with focus on `How to Edit a Wedding Video in Final Cut Pro X` by *Wedding Film School*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
+* **Spoken Instruction Sample**: "Crag Adams here from WeddingFilmSchool.com, and today I'm gonna be doing a post-commentary on Gabby and Sanford's Wedding Film. So it's about a seven and a half minute film. It's Manhattan, it was an awesome venue, awesome couple, and a really fun day, so let's just go through it..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 363s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (363s - 1361s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (1361s - 1815s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 4m 32s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (4m 32s - 13m 36s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (13m 36s - 24m 12s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (24m 12s - 30m 15s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

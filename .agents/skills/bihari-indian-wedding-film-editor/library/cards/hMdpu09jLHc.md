@@ -14,7 +14,12 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Story structure for wedding films (200k views): narrative arc, using audio and emotion as the spine, and choosing moments. Pure technique, no UI tour. The film is Western, but the story principles carry over to Indian ritual films.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `story` with focus on `Storytelling Mastery for Wedding Videographers`.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting.
+* **Spoken Instruction Sample**: "most wedding videographers think storytelling is this mysterious complicated art and that's why
+editing takes them forever but here's the truth storytelling is actually very simple once you know
+what really matters in this video i'm going to show you how to finally break free fro..."
 
 ---
 

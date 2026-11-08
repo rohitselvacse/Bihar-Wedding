@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Cleaning noisy, underexposed footage without plastic skin. Matches the night baraat, dwar-puja and reception footage typical of Bihar weddings, which run late into the night.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `color-lowlight` workflow with focus on `Fix BAD Footage with THIS Noise Reduction SECRET` by *Waqas Qazi*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
+* **Spoken Instruction Sample**: "All right, so here's the problem. I have this shot that is super underexposed. So when I bring it up, add some saturation, it looks like this. So at first glance, it looks totally fine until I punch in. Just look at this. It is absolutely unusable. So in this video, I'm gonna sha..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 135s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (135s - 509s)**: Dynamic rhythm matching the primary action of `baraat, reception`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (509s - 679s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 104 detected cuts | Average Shot Length (ASL): **6.53s** | Detected Tempo: **136.0 BPM**
+* **Beat Synchronization**: **50 of 104 cuts** (48.1%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 30.9s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (30.9s - 30.9s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (30.9s - 678.9s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

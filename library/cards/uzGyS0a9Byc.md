@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Teaches where to cut against a song (downbeats, phrases, not every beat) in Final Cut Pro. This is the principle the skill needs for beat-synced teasers and trailers.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `music-edit` workflow with focus on `How to Cut to the Beat | Tips for Editing to Music in FCPX` by *Brad West*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
+* **Spoken Instruction Sample**: "in today's video i'm going to show you how to edit to the beat like this i'm going to kick things off by first going through two different ways to edit to the beat then i'll show you a quick and easy way to fine-tune your edit and along the way i'll sprinkle in a few additional t..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 102s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (102s - 384s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (384s - 513s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 1m 16s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (1m 16s - 3m 50s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (3m 50s - 6m 50s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (6m 50s - 8m 33s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

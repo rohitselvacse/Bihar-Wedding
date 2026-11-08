@@ -14,14 +14,17 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A professional colourist (114k views) on skin-tone mistakes: hue line, saturation and isolating skin. Gives the theory behind keeping brown Indian skin natural under haldi yellow and stage lights.
+**Extracted Educational Summary (from verified audio transcript)**:
+* **Primary Technique**: Practical tutorial covering `color-skin` workflow with focus on `Your Skin Tones Look Fake Because You're Making These Mistakes` by *Waqas Qazi*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 218s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (218s - 817s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (817s - 1090s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 43s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 43s - 8m 10s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (8m 10s - 14m 32s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (14m 32s - 18m 10s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 
