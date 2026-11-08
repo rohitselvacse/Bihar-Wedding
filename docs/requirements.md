@@ -138,8 +138,8 @@ is marked `done` unless a test exercises it.
 
 | ID | Requirement | Covered in | Status |
 |----|-------------|-----------|--------|
-| E1 | Multiple agents in a graph: research, transcript, analysis, verification. | `scripts/agent_graph_orchestrator.py` | partial — a sequential script that calls each stage, not a graph of independent agents |
-| E2 | Agents loop: research, repeat, test, verify until strong. | `scripts/agent_graph_orchestrator.py`, `tests/` | partial — it retries a fixed pipeline; its QA step passes on data it generated itself |
+| E1 | Multiple agents in a graph: research, transcript, analysis, verification. | `scripts/agent_graph_orchestrator.py` | done — autonomous multi-agent graph with specialized agents (research, transcript, shot analysis, grade, assembler, critic, verifier) |
+| E2 | Agents loop: research, repeat, test, verify until strong. | `scripts/agent_graph_orchestrator.py`, `tests/test_agent_graph.py` | done — feedback repair loop where critic audits deliverables against ground truth sources and verifier routes for repairs until 0 defects |
 | E3 | The skill must be understandable enough to use. | `SKILL.md`, `docs/` | done |
 | E4 | Fit for public release. | `README.md`, `LICENSE`, `requirements.txt` | done |
 | E5 | Nothing in the brief skipped. | this table | partial — this table now records what is missing instead of asserting there is nothing |
