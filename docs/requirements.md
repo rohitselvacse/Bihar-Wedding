@@ -121,7 +121,7 @@ is marked `done` unless a test exercises it.
 | R9.2 | Teaser 1–3 minutes of the best shots. | `plan_teaser()` | done — planned at 97s in tests, and the runtime is asserted |
 | R9.3 | Trailer 5–10 minutes on a song or mashup, cut on the beats. | `plan_trailer()`, `scripts/beats.py` | done — planned at 362s; beat grid measured, cuts snapped to within one frame |
 | R9.4 | Master film in ritual sequence, 1–3 hours. | `plan_master()` | done — planned at 2.3 h with a chapter per ritual |
-| R9.5 | Colour correction, grading, lighting, music and video sync are critical. | `scripts/grade.py`, `scripts/beats.py`, `references/02`, `references/10` | partial — music sync, exposure and colour-cast measurement and grade grouping are implemented and tested; skin-tone judgement is still guidance in `references/10` only |
+| R9.5 | Colour correction, grading, lighting, music and video sync are critical. | `scripts/grade.py`, `scripts/beats.py`, `references/02`, `references/10` | done — music sync, exposure and colour-cast measurement, grade grouping, and OpenCV FaceDetectorYN facial skin tone vectorscope alignment are implemented and tested |
 
 ## 10. The skill
 

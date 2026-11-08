@@ -20,6 +20,12 @@ test_pipeline_run/
 exports_fcpxml/
 wedding_job/
 validation/
+.cache/
+cache/
+thumbnails/
+transcripts/
 *.tmp
+*.vtt
+*.srt
 .DS_Store
 
