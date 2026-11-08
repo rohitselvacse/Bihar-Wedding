@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A 3-minute trailer from an established studio (291k views): shows how a trailer differs from a teaser (more story, voice-over, multiple functions).
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `trailer-3min` in `EPIPHANY - Pari & Bhavya Trailer // Wedding Highlights // Udaipur, India` by *The Wedding Story*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "अरी औरी परी कोई दुनिया से एक दम हलग सुन्दरी तेरे पैरों की थापों से डोले जियां उठे चालों से हालों से उसरसरी हो लो लो लो लो लो लो हो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो लो..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 36s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (36s - 138s)**: Dynamic rhythm matching the primary action of `haldi, sangeet, baraat, pheras, general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (138s - 184s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 75 detected cuts | Average Shot Length (ASL): **2.44s** | Detected Tempo: **112.3 BPM**
+* **Beat Synchronization**: **33 of 75 cuts** (44.0%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 26.4s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (26.4s - 26.4s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (26.4s - 183.2s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

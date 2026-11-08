@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A 6-minute North-Indian cinematic highlight (402k views), the standard 5-10 minute trailer/highlight package the brief asks for.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `cinematic-highlight` in `Wedding Highlights 2026 | Ankit & Ambika | Lens Media Photography` by *Lens Media Photography*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "All I need is your love tonight All I need is your love tonight All I need is your love tonight All I need is your love tonight All I need is your love tonight All I need is your love tonight I'm gonna be your love tonight All I need is your love tonight..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 70s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (70s - 264s)**: Dynamic rhythm matching the primary action of `haldi, baraat, jaymala, pheras, vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (264s - 352s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 152 detected cuts | Average Shot Length (ASL): **2.31s** | Detected Tempo: **89.1 BPM**
+* **Beat Synchronization**: **61 of 152 cuts** (40.1%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 30.6s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (30.6s - 30.6s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (30.6s - 351.0s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

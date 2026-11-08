@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A 70-minute static/traditional full-length video from Bhadohi, eastern UP (1.7M views). It has the closest Bhojpuri-belt ritual order to Bihar and serves as the 1-hour reference.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `traditional-full-1h` in `Traditional wedding video Aayush mansha wedding #gopiganj #bhadohi #balajidigital` by *Balaji digital studio*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] हे बसात के दिन आए मुलाकात के दिन पिता पियों के शरारे बिछे हैं ये सावन की रिमझिम झड़ी है कदम बेखुदी में बहकने लगे हैं ये मदहोशियां की घड़ी है बरसात के दिन मुलाकात के दिन आए हम सोच में थे जिनके उस रात के दिन हे जलते रहे हम खयालों लौ से सही हमने बरसों जुदाई छमछम बरसती सुहानी..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 843s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (843s - 3161s)**: Dynamic rhythm matching the primary action of `haldi, matkor, tilak, baraat, dwar-puja, jaymala, kanyadaan, pheras, sindoor-daan, vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (3161s - 4215s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 10m 32s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (10m 32s - 31m 36s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (31m 36s - 56m 12s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (56m 12s - 70m 15s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Award-winning 4.5-minute trailer from a Delhi studio: reference for full-song trailer pacing, music beats and emotional arc.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `trailer-5min` in `India's Most Award-Winning Wedding Trailer of 2024 - Calm & Crazy` by *CineLove*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "छन पछ लुखी हुई रात ले जानी दुनिया ते अपनी कहानी रह जानिए अखिया ने दिलन गल कह जानी दुनिया ते अपने कहाने रह जानिए अखिया ने दिलन गल कह जानी दुनिया अपनी ले जाए चरण पीछे लुकी हुई रात ले जाए दुनिया से अपनी कहानी रह जाए दिशांक हाउ आ ड य मुझे ये नहीं समझ आ रहा खत्म हुआ है कुछ या कुछ शुरू..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 53s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (53s - 199s)**: Dynamic rhythm matching the primary action of `haldi, mehndi, sangeet, pheras, vidai, general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (199s - 266s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 109 detected cuts | Average Shot Length (ASL): **2.43s** | Detected Tempo: **143.6 BPM**
+* **Beat Synchronization**: **56 of 109 cuts** (51.4%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 33.0s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (33.0s - 33.0s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (33.0s - 265.1s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

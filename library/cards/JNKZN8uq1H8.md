@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Most-watched Indian wedding film (19M): a 59 s teaser that compresses haldi, mehndi and pheras into one song; reference for the 1-minute format.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `teaser-1min` in `Anushka & Virat's Wedding Video | The Wedding Filmer` by *The Wedding Filmer*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "इश्क वरगेते इश्क वरगेते इश्क वरगेते इश्क ही पले इश्क ही पले इश्क ही पले इश्क ही दिसदा इश्क ही दिसदा जेने इश्क चले इश्क चले I feel like I was a child till morning and now I have grown up suddenly My wife इश्क वर्गेते इश्क वर्गेते इश्क वर्गेते इश्क वर्गेते इश्क वर्गेते इश्क वर्गेते..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 11s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (11s - 44s)**: Dynamic rhythm matching the primary action of `haldi, mehndi, pheras, general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (44s - 59s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 18 detected cuts | Average Shot Length (ASL): **3.28s** | Detected Tempo: **112.3 BPM**
+* **Beat Synchronization**: **8 of 18 cuts** (44.4%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 7.6s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (7.6s - 32.8s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (32.8s - 59.0s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Patna teaser by a Haryana studio that also posts Karnal teasers: shows the same teaser grammar applied to a Bihar wedding (Bihar 1 of 3).
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `teaser-1min` in `CINEMATIC WEDDING TEASER 2026 | HITESH & SHWETA | PATNA, BIHAR | KHANNA PHOTOGRAPHY` by *KHANNA PHOTOGRAPHY and EDIT PAGLU*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] आओ आओ आओ साजन आओ आओ आओ साजन [संगीत] आओ नी गोरीरा बालम जी मेरे व [संगीत] से आओ आओ नी [संगीत] गोरीरा बालम तेरे मेरे वारे [संगीत] से नैन गोरिया बालम तेरे मारे [संगीत] वारे से हो सखी [संगीत] मोरे पिया घर आए ऐ सखी मोरे [संगीत] पिया घर आए भाग लगे मोरे [संगीत] आंगन को आग लगे मोर..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 18s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (18s - 68s)**: Dynamic rhythm matching the primary action of `general, jaymala, sindoor-daan`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (68s - 91s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 75 detected cuts | Average Shot Length (ASL): **1.21s** | Detected Tempo: **86.1 BPM**
+* **Beat Synchronization**: **19 of 75 cuts** (25.3%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 15.4s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (15.4s - 15.4s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (15.4s - 90.7s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

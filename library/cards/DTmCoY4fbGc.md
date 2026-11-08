@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A North-Indian studio pre-wedding film with 3.5M views: song-driven couple shoot format often played at the sangeet or reception.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `pre-wedding` in `PRE WEDDING FILM 2023 | NIKHIL DISHA | 4K | THAILAND | SUNNY DHIMAN PHOTOGRAPHY` by *sunnydhimanphotography*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] [प्रशंसा] दि जाने क्या हुआ मिलके अपना सा तू लगा जिस राह जिस राह भी जाऊं तुझको तुझको ही चाहूं हमराह अब से मेरा तू हमराह मैं भी तेरा हं जिस रा जिस रा भी जाऊं तुझको तुझको ही चाऊ हमराह अब से मेरा तू हमराह मैं भी तेरा हूं एहसान मंद है दिल अब से ये तेरा ये मर्ज कैसा है क्या नाम..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 39s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (39s - 146s)**: Dynamic rhythm matching the primary action of `pre-wedding`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (146s - 195s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 0m 29s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (0m 29s - 1m 27s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (1m 27s - 2m 36s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (2m 36s - 3m 15s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

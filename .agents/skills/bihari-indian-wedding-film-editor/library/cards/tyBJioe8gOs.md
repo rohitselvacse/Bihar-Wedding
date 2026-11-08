@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Jaisalmer Hindu wedding cut to one song (47M views); a model for the ~2-minute single-song film with entries, varmala and pheras.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `teaser-2min` in `Kiara & Sidharth | Ranjha | The Wedding Filmer` by *The Wedding Filmer*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] मगया तेरे तो रबा र नो द मिले जग लगदा महका महका महका गुलशन हाथ लिया सुन मा सुन राजा आजा हु धरती आजा तेरे में घर है जाना आजा रा सब में छड़ संग तेरी मैता जाना सुन माई सुनदा जा जा जा मेरा ढोला वे आया ढोला मेरा ढोला वे आया ढोला मेरा ढोला में आया ढोला मेरा ढोला में आया ढोला ओ र..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 20s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (20s - 76s)**: Dynamic rhythm matching the primary action of `baraat, jaymala, pheras, general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (76s - 102s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 17 detected cuts | Average Shot Length (ASL): **5.96s** | Detected Tempo: **83.4 BPM**
+* **Beat Synchronization**: **1 of 17 cuts** (5.9%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 23.2s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (23.2s - 61.3s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (61.3s - 101.3s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

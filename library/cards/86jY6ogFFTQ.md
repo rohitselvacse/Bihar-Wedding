@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A 3-minute North-Indian same-day edit: shows what can be cut and played at the reception on the night itself.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `same-day-edit` in `Saumya X Akshay // Wedding Film // Same Day Edit // Rambagh, Jaipur` by *Ombre by Harsheen Jammu*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कर दो दो कर दो अजब कर दो दो कि अजब कर दो कर दो कर दो कि अजब कर दो कि अजब कर दो कि अजब कर दो कि अजब कर दो कि अजब कर दो कि अजब कि अजब कि अजब कि अजब कि अजब कि अजब कि अजब कि अजब कि अजब कि अजब कि अजब कि अजब कि अजब एक्षे एक्षाब्याद! परियाओं में बाई भारी कि मिन्मी क्या कहना? का लोडा क्य..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 34s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (34s - 129s)**: Dynamic rhythm matching the primary action of `general, baraat, pheras`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (129s - 172s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 109 detected cuts | Average Shot Length (ASL): **1.57s** | Detected Tempo: **123.0 BPM**
+* **Beat Synchronization**: **48 of 109 cuts** (44.0%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 16.6s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (16.6s - 16.6s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (16.6s - 171.3s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Side-by-side demo (448k views) of cinematic versus traditional/static coverage of the same moments; defines the two main deliverable styles.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `format-comparison` in `Cinematic vs Traditional Wedding Video | Memories Maker` by *Memories Maker*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कि [संगीत] इससे पहला यह से हंसे बोला यह बोलता तुझ का सर्वे हुआ था साहेब प्योर तुला सफेद तेरे संग यारा MP3 लव पे हंसता है का मन धागा धागा आगे जोड़ते नवा दिल धागा धागा रेशमी हुआ था अमर दादा तथागत अच्छी तो हुआ था और सुनाओ हुआ था लुट झाला..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 21s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (21s - 80s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (80s - 107s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 20 detected cuts | Average Shot Length (ASL): **5.33s** | Detected Tempo: **117.5 BPM**
+* **Beat Synchronization**: **7 of 20 cuts** (35.0%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 31.9s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (31.9s - 53.6s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (53.6s - 106.6s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

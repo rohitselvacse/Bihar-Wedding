@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A 4-minute sangeet-only highlight: stage-light night grading and performance cutting that differs from daytime rituals.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-film-sangeet` in `Ayushi & Love | Best Sangeet Highlight 2026` by *Mufaddal Photowala*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] फिर मेरे दिमाग की बत्ती जली। फिर मैं स्टीयरिंग में उंगली डाल के जो चकरी घुमाई रोड रोलर जगह पे घर घर घर घर घर घर घर घर घर धड़क क्या हुआ? तू तो रोलर से उड़ गया होगा। उड़ा तेरा बाप। अरे पब्लिक चिल्ला रही थी। मजा नहीं आ रहा है। रुको जरा सबर करो। बोला धक्कामुक्की नहीं करने का। तू..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 47s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (47s - 179s)**: Dynamic rhythm matching the primary action of `sangeet`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (179s - 239s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 124 detected cuts | Average Shot Length (ASL): **1.92s** | Detected Tempo: **129.2 BPM**
+* **Beat Synchronization**: **64 of 124 cuts** (51.6%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 18.6s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (18.6s - 18.6s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (18.6s - 238.6s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

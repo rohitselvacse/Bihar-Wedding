@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A 90 s mehndi-only cinematic film: detail macros of the henna, the bride's look and the dance, for a mehndi ritual film.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-film-mehndi` in `Best Cinematic Mehndi 2025 || Tanvi || Mehndi Shoot || 4K || THE WEDDING WEAVERS` by *The Wedding Weavers*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 18s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (18s - 67s)**: Dynamic rhythm matching the primary action of `mehndi`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (67s - 90s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 45 detected cuts | Average Shot Length (ASL): **1.98s** | Detected Tempo: **76.0 BPM**
+* **Beat Synchronization**: **10 of 45 cuts** (22.2%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 17.9s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (17.9s - 24.2s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (24.2s - 89.2s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

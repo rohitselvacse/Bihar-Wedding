@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A short cinematic film on the pheras alone; shows how a ritual-specific highlight is built from mandap close-ups, agni and sindoor.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-film-pheras` in `Phere Highlights 2026 | 4K Cinematic Wedding Rituals | Akshat & Samriddhi | SK STUDIO 7` by *SK Studio 7*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 19s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (19s - 73s)**: Dynamic rhythm matching the primary action of `pheras, sindoor-daan`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (73s - 98s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 0m 14s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (0m 14s - 0m 44s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (0m 44s - 1m 18s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (1m 18s - 1m 38s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

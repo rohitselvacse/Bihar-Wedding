@@ -178,9 +178,9 @@ def analyze_scenes_and_beats(video_path: Path) -> Dict[str, Any]:
     cut_times: List[float] = []
     for s in scenes:
         try:
-            t = s[0].get_seconds()
+            t = float(s[0].seconds) if hasattr(s[0], "seconds") else float(s[0].get_seconds())
         except Exception:
-            t = float(s[0].seconds)
+            t = float(s[0].get_seconds())
         cut_times.append(t)
 
     # 2. Extract audio and run beat detection
