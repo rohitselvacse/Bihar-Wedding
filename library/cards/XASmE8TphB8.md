@@ -1,4 +1,4 @@
-# Video Card: 6 tips to focus on everyone in a group photo
+# Video Card: Group Photo में कोई Blur नहीं होगा – 6 Killer Focus Tricks!
 
 | Attribute | Specification |
 | :--- | :--- |

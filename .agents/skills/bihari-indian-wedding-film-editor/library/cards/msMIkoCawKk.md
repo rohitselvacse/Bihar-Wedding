@@ -1,4 +1,4 @@
-# Video Card: Watch all the rituals of a Bihar Mithila wedding mandap and a tearful, emotional farewell
+# Video Card: बिहार मिथिला के शादी मंडप में क्या-क्या रस्म होता है सब देखें और रोना गाना के साथ मार्मिक विदाई भी
 
 | Attribute | Specification |
 | :--- | :--- |

@@ -1,10 +1,10 @@
-# Video Card: How Sindoor Daan is performed in Bihar - The daughter is now someone else's
+# Video Card: हमारे बिहार में कैसे होता है सिंदूर दान - बेटी हो गई पराई किसने ऐसी रीत बनाई sindurdaan
 
 | Attribute | Specification |
 | :--- | :--- |
 | **YouTube ID** | `FXDtTOeQn6U` |
 | **YouTube URL** | [https://www.youtube.com/watch?v=FXDtTOeQn6U](https://www.youtube.com/watch?v=FXDtTOeQn6U) |
-| **Channel / Studio** | Onam Singh's Vlogs |
+| **Channel / Studio** | Onam Singh’s Vlogs |
 | **Duration** | 11m 03s (663 seconds) |
 | **Research Track** | `T4_bihar`: Bihari & Patna Weddings (Matkor, Marwa, Sindoor Daan, Kohbar, Vidai) |
 | **Category** | `ritual-vlog` |

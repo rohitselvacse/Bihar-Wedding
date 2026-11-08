@@ -51,6 +51,7 @@ import json
 import re
 import sys
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -72,12 +73,17 @@ FAILING = {"MISSING", "TITLE_MISMATCH", "CHANNEL_MISMATCH"}
 
 
 def _norm(text: str) -> set[str]:
-    """Reduce a title to a set of comparable word tokens."""
+    """Reduce a title to a set of comparable word tokens.
+
+    Preserves letters and combining vowel marks across Indic scripts (Devanagari,
+    Bengali, etc.) so Hindi and regional language titles compare accurately.
+    """
     text = text.lower()
     # Strip quality/format noise that uploaders and researchers record differently.
     text = re.sub(r"\b(4k|1080p|720p|hd|full hd|official|video|part[- ]?\d+)\b", " ", text)
-    text = re.sub(r"[^\w\s]", " ", text)
-    return {t for t in text.split() if len(t) > 2}
+    # Replace punctuation and symbols (P*, S*) with spaces, keeping letters, numbers, and marks
+    text = "".join(" " if unicodedata.category(c).startswith(("P", "S")) else c for c in text)
+    return {t for t in text.split() if len(t) >= 2}
 
 
 def titles_match(claimed: str, actual: str, threshold: float = 0.45) -> bool:
