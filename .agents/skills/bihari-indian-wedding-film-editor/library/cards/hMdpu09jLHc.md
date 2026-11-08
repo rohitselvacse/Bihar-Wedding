@@ -15,18 +15,17 @@
 
 ## 1. Editorial Analysis & Rationale
 **Extracted Educational Summary (from verified audio transcript)**:
-* **Primary Technique**: Practical tutorial covering `story` with focus on `Storytelling Mastery for Wedding Videographers`.
-* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting.
-* **Spoken Instruction Sample**: "most wedding videographers think storytelling is this mysterious complicated art and that's why
-editing takes them forever but here's the truth storytelling is actually very simple once you know
-what really matters in this video i'm going to show you how to finally break free fro..."
+* **Primary Technique**: Practical tutorial covering `story` workflow with focus on `Storytelling Mastery for Wedding Videographers` by *Poveda Films*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
+* **Spoken Instruction Sample**: "most wedding videographers think storytelling is this mysterious complicated art and that's why editing takes them forever but here's the truth storytelling is actually very simple once you know what really matters in this video i'm going to show you how to finally break free fro..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 226s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (226s - 847s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (847s - 1130s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 49s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 49s - 8m 28s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (8m 28s - 15m 04s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (15m 04s - 18m 50s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

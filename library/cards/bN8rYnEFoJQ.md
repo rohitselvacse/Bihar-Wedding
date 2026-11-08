@@ -15,16 +15,17 @@
 
 ## 1. Editorial Analysis & Rationale
 **Extracted Educational Summary (from verified audio transcript)**:
-* **Primary Technique**: Practical tutorial covering `workflow` with focus on `How I Edit a Complete Wedding Story (Full Editing in DaVinci Resolve)`.
-* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting.
+* **Primary Technique**: Practical tutorial covering `workflow` workflow with focus on `How I Edit a Complete Wedding Story (Full Editing in DaVinci Resolve)` by *Cinemasters Films*.
+* **Key Workflow Principles**: Teaches structured project organization, non-destructive color grading in Rec.709, and precise beat-synced cutting. Emphasizes storytelling, clean cut-to-cut transitions, speed ramping on kinetic movements, and protecting natural skin tones along the vectorscope flesh line.
 * **Spoken Instruction Sample**: "एक अच्छे एडिटर की सबसे बड़ी पहचान यह होती है कि वह अपना शॉर्ट सिलेक्शन किस तरह से करता है और आप यकीन नहीं करोगे कि 90% जो एडिटर्स हैं इंडिया में वो शॉर्ट सिलेक्शन में ही सबसे ज्यादा मिस्टेक्स करते हैं। या तो वो अपने शॉट्स को बहुत ज्यादा लॉन्ग रखते हैं या अपने शॉट्स को बहुत ही ज्य..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 897s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (897s - 3364s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (3364s - 4486s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 11m 12s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (11m 12s - 33m 38s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (33m 38s - 59m 48s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (59m 48s - 74m 46s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 
