@@ -73,13 +73,15 @@ class TestWeddingPipeline(unittest.TestCase):
         cards_dir = self.base_dir / "library" / "cards"
         self.assertTrue(cards_dir.exists(), "library/cards/ directory must exist")
         card_files = list(cards_dir.glob("*.md"))
-        self.assertEqual(len(card_files), 165, "Must generate exactly 165 video cards")
+        lib = json.loads((self.base_dir / "references" / "08_video_library_150.json").read_text(encoding="utf-8"))
+        expected_count = len(lib.get("videos", []))
+        self.assertEqual(len(card_files), expected_count, f"Must match {expected_count} video cards")
         # Verify random sample card content
         sample = card_files[0].read_text(encoding="utf-8")
         self.assertIn("# Video Card:", sample)
         self.assertIn("YouTube ID", sample)
         self.assertIn("Key Takeaways for Final Cut Pro", sample)
-        print("[✓] Test 03: 165 individual video cards verified in library/cards/.")
+        print(f"[✓] Test 03: {len(card_files)} individual video cards verified in library/cards/.")
 
     def test_04_character_continuity_audit(self):
         generate_mock_tags(self.test_work, count=150)

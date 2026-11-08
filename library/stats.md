@@ -4,11 +4,11 @@ Generated from `references/08_video_library_150.json` by `scripts/library_stats.
 
 ## Summary
 
-* Videos catalogued: **165**
-* Combined running time: **57.0 hours**
+* Videos catalogued: **180**
+* Combined running time: **59.2 hours**
 * Shortest: 0m 41s — SHUBHAM X SHRADDHA HALDI REEL 4K / HUM TOH DEEWANE / BY VG PHOTOGRAPHY TEAM #haldi #shorts
 * Longest: 2h 21m — Best Bihari Full Wedding Video || Patna Bihar || @Tfilms.01
-* Individual cards: 165 in `library/cards/<id>.md`
+* Individual cards: 180 in `library/cards/<id>.md`
 
 ## By research track
 
@@ -18,10 +18,10 @@ Generated from `references/08_video_library_150.json` by `scripts/library_stats.
 | `T2_tutorials` | 28 | Final Cut Pro, DaVinci Resolve, Premiere, log footage, skin tones, beat sync. |
 | `T3_songs` | 29 | Haldi, mehndi, sangeet, baraat, jaimala, mandap and vidai repertoire. |
 | `T4_bihar` | 39 | Matkor, marwa, haldi hardiya, tilak, sindoor daan, kohbar, vidai, bahubhoj. |
-| `T5_geet` | 0 | Live geet, spoken wordings and pandit recitation. **No videos catalogued for this track.** |
+| `T5_geet` | 15 | Live geet, spoken wordings and pandit recitation. |
 | `T6_reception` | 25 | Stage lighting, shagun queues, family continuity, pangat coverage. |
 | `T7_recipes` | 19 | Teaser recipes, trailer structures, speed ramps, export standards. |
-| **Total** | **165** | |
+| **Total** | **180** | |
 
 ## By category
 
@@ -31,17 +31,20 @@ Generated from `references/08_video_library_150.json` by `scripts/library_stats.
 | ritual-vlog | 13 |
 | highlight | 11 |
 | song-jukebox | 9 |
+| tutorial | 6 |
 | music-edit | 5 |
 | full-film | 5 |
+| geet-live | 5 |
+| geet-studio | 5 |
 | color | 4 |
 | mashup | 4 |
 | reception-highlight | 4 |
 | reception-full | 4 |
 | jaymala | 4 |
-| tutorial | 4 |
 | teaser-1min | 3 |
 | audio | 3 |
 | color-log | 3 |
+| ritual-explainer | 3 |
 | workflow | 2 |
 | color-skin | 2 |
 | workflow-story | 2 |
@@ -107,8 +110,7 @@ Generated from `references/08_video_library_150.json` by `scripts/library_stats.
 
 ## Known gaps
 
-* Transcripts: **0 of 165**. The brief asks for a transcript per video; none are stored. `scripts/transcribe.py` transcribes your own footage, not these reference videos.
-* Thumbnails: **0 of 165**. None are stored.
+* Transcripts: **0 of 180**. The brief asks for a transcript per video; none are stored. `scripts/transcribe.py` transcribes your own footage, not these reference videos.
+* Thumbnails: **0 of 180**. None are stored.
 * Shot breakdowns in `library/cards/` were produced by a template, not by watching the videos: each card's cut points sit at a fixed 20% and 75% of its duration. Treat them as placeholders.
 * No video id has been checked against YouTube. Run `scripts/validate_video_library.py` from a machine with YouTube access before relying on this library.
-* Track T5 (geet, spoken wordings, pandit recitation) has no videos, although the brief asked for 10-20 per section.

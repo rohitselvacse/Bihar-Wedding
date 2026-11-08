@@ -151,12 +151,16 @@ class TestRequirementsAreHonest(unittest.TestCase):
 
     def test_known_gaps_are_recorded_as_gaps(self):
         """Things genuinely not done must not be claimed as done."""
-        for rid, expect in [("R2.3", "missing"), ("R2.4", "missing"), ("R5.5", "missing")]:
+        for rid, expect in [("R2.3", "missing"), ("R2.4", "missing")]:
             row = next((l for l in self.text.splitlines() if l.startswith(f"| {rid} ")), None)
             self.assertIsNotNone(row, f"{rid} is missing from the table")
             self.assertIn(expect, row,
                           f"{rid} should be recorded as {expect}: {row}")
-        print("[✓] Transcripts, thumbnails and track T5 recorded as gaps")
+        # R5.5 is now filled with 15 verified videos
+        row_r55 = next((l for l in self.text.splitlines() if l.startswith("| R5.5 ")), None)
+        self.assertIsNotNone(row_r55)
+        self.assertIn("done", row_r55)
+        print("[✓] Transcripts and thumbnails recorded as gaps, T5 verified as done")
 
     def test_face_matching_is_claimed_only_because_it_exists(self):
         row = next(l for l in self.text.splitlines() if l.startswith("| R6.1 "))

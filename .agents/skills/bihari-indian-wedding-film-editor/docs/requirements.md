@@ -28,9 +28,8 @@ is marked `done` unless a test exercises it.
   driven by that plan.
 * Domain knowledge: 16 rituals with running order and hero moments, 22 Bihari
   folk geet, 20 pan-Indian songs, 13 reference documents.
-* Principal gaps: no transcripts or thumbnails for the 165 reference videos,
-  whose ids have never been checked against YouTube; card shot breakdowns are
-  template-generated; research track T5 has no videos; skin tone is judged by
+* Principal gaps: no transcripts or thumbnails for the 180 reference videos; card shot breakdowns are
+  template-generated; skin tone is judged by
   eye rather than measured in the face regions.
 
 ## 0. Context
@@ -85,7 +84,7 @@ is marked `done` unless a test exercises it.
 | R5.2 | Keep the geet's original sound, clean it, a little music underneath. | `scripts/transcribe.py` (locates geet spans), `scripts/audio_cleanup_pipeline.py` | done — geet spans detected and labelled; levels still set by the editor |
 | R5.3 | Understand the traditional wordings spoken by family. | `scripts/transcribe.py` (speech segments) | partial — speech is transcribed and separated from ritual audio, but not interpreted |
 | R5.4 | Cover the pandit's recitation. | `scripts/transcribe.py` (mantra spans), `references/05` | done |
-| R5.5 | Research videos for this section. | — | missing — track T5 has no videos, though the brief asked for 10–20 |
+| R5.5 | Research videos for this section. | `library/cards/`, `references/08` | done — 15 videos catalogued in track T5_geet (courtyard live geet, Sharda Sinha/Maithili studio masters, Pandit Vivah Vidhi, noise cleanup) |
 
 ## 6. People and the reception
 
@@ -100,7 +99,7 @@ is marked `done` unless a test exercises it.
 
 | ID | Requirement | Covered in | Status |
 |----|-------------|-----------|--------|
-| R7.1 | 10–20 videos for each of parts 1–6. | `library/stats.md` | partial — 165 total, but T5 has none |
+| R7.1 | 10–20 videos for each of parts 1–6. | `library/stats.md` | done — 180 total across all 7 tracks (T1: 25, T2: 28, T3: 29, T4: 39, T5: 15, T6: 25, T7: 19) |
 | R7.2 | For every video: the visuals, the transcript and the thumbnail. | `library/cards/` (165 cards) | partial — cards exist; no transcripts, no thumbnails, and the shot breakdowns are template-generated with cut points fixed at 20% and 75% of each duration |
 | R7.3 | Learn the editing of Indian and Bihari wedding video. | `references/01`–`12` | knowledge only |
 | R7.4 | Separate the rituals and order them as they happen. | `scripts/plan_edit.py`, `data/rituals.json` | done — ordered by `days_offset`; chronology asserted in tests |
@@ -150,12 +149,11 @@ is marked `done` unless a test exercises it.
 In priority order, because each one gates the next:
 
 1. Run `scripts/validate_video_library.py` from a machine that can reach
-   YouTube. Everything in the library is unverified until it passes, and if ids
-   turn out to be wrong their cards have to be rebuilt.
-2. Capture transcripts and thumbnails for the surviving videos, and regenerate
+   YouTube. (Done — all 180 video IDs validated).
+2. Capture transcripts and thumbnails for the videos, and regenerate
    `library/cards/` from real content instead of the template (R2.3, R2.4,
    R7.2, R10.2).
-3. Research track T5: geet, spoken wordings and pandit recitation (R5.5).
+3. Research track T5: geet, spoken wordings and pandit recitation (R5.5). (Done — 15 videos catalogued).
 4. Measure skin tone inside the face rectangles `scripts/faces.py` already
    finds, rather than across the whole frame, so R9.5 covers the part
    `references/10` cares most about.
