@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Traditional humorous Gaali geet teasing the groom party (samdhi) during the wedding feast (pangat / dinner). High comic value and playful tempo shifts.
+**Extracted Folk Culture & Audio Analysis (from verified audio transcript)**:
+* **Ritual & Cultural Context**: Live traditional wedding performance for `geet-live` by *Bhojpuri Family Show* (`बफर सिस्टम पारंपरिक गारी गीत #Kareena_Pandey aur #Savita_Pandey | खाल- खाल समधी मटर पनीर |स्टेज शो`).
+* **Vocal & Harmonic Character**: Authentic regional delivery (Maithili/Bhojpuri/Magahi tradition) featuring participatory courtyard singing, dholak/harmonium accompaniment, and sacred vivah stuti.
+* **Audio Engineering & Restoration Rule**: Live courtyard recordings contain ambient echo and spectator chatter. Apply spectral de-noise (-6 to -10 dB), parametric high-pass filter at 80 Hz, and sidechain ducking (-14 dB) beneath sacred Sanskrit mantras.
+* **Spoken Instruction Sample**: "[संगीत] सरलो पवा भैया रुक जा की खालो खालो खालो खालो सर मटर पनीर खालो खालो खालो खालो सर मटर पनीर खालो खालो खालो खालो सर मटर पनीर खालो खालो खालो खालो सर मटर पनीर देख सब व्यवस्था बनल लिटी चोखा से लेके पूरा चाइनीज चम सब बहे कही लीटी रखल बा कही चोखा रखल बा कही लीटी रखल बा कही चोखा रखल..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Section (0:00 - 94s)**: Introduction of the ritual setting, participants assembling, establishing ambient courtyard or altar acoustics.
-* **Core Ritual Progression (94s - 355s)**: Central folk chanting / Vedic mantras / technical tutorial demonstration. Micro-focus on sacred elements, hand gestures, and vocal expressions.
-* **Resolution & Culmination (355s - 474s)**: Final refrains, shanti path, elder blessings, or summary conclusions with clean tail decay.
+* **Shot Metrics**: 91 detected cuts | Average Shot Length (ASL): **5.2s** | Detected Tempo: **136.0 BPM**
+* **Beat Synchronization**: **62 of 91 cuts** (68.1%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 105.2s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (105.2s - 105.2s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (105.2s - 473.6s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

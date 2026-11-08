@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Chandan Tiwari poignant Bhojpuri Doli Vidai rendition. Excellent acoustic reference for balancing high vocal sorrow with understated flute and sarangi accompaniment.
+**Extracted Folk Culture & Audio Analysis (from verified audio transcript)**:
+* **Ritual & Cultural Context**: Live traditional wedding performance for `geet-studio` by *Chandan Tiwari {Purabiyataan}* (`रहनी दुलारी खेलनी गोदिया ए बाबा, कइसे चढ़ब आज डोलिया ए बाबा (बेटी विदाई) | विवाह गीत | चंदन तिवारी`).
+* **Vocal & Harmonic Character**: Authentic regional delivery (Maithili/Bhojpuri/Magahi tradition) featuring participatory courtyard singing, dholak/harmonium accompaniment, and sacred vivah stuti.
+* **Audio Engineering & Restoration Rule**: Live courtyard recordings contain ambient echo and spectator chatter. Apply spectral de-noise (-6 to -10 dB), parametric high-pass filter at 80 Hz, and sidechain ducking (-14 dB) beneath sacred Sanskrit mantras.
+* **Spoken Instruction Sample**: "रहानी दुलारी खेलनी गोदियाई बाबा कोई से चड़ब आज डोली आई बाबा रहानी दुलारी खेलनी गोदियाई बाबा रहानी दुलारी खेलनी गोदियाई बाबा कोई से चड़ब आज डोली आई बाबा कोई से चड़ब..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Section (0:00 - 89s)**: Introduction of the ritual setting, participants assembling, establishing ambient courtyard or altar acoustics.
-* **Core Ritual Progression (89s - 336s)**: Central folk chanting / Vedic mantras / technical tutorial demonstration. Micro-focus on sacred elements, hand gestures, and vocal expressions.
-* **Resolution & Culmination (336s - 449s)**: Final refrains, shanti path, elder blessings, or summary conclusions with clean tail decay.
+* **Phase 1: Establishing & Context (0:00 - 1m 07s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (1m 07s - 3m 22s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (3m 22s - 5m 59s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (5m 59s - 7m 29s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

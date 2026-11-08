@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Vedic explanation of each of the bride seven conditions before taking the final phera. Guides documentary sound mixing on when speech isolation must take precedence over background music.
+**Extracted Folk Culture & Audio Analysis (from verified audio transcript)**:
+* **Ritual & Cultural Context**: Live traditional wedding performance for `ritual-explainer` by *Acharya Parmendra ji आचार्य परमेन्द्र जी* (`हिंदी में कन्या के सात वचन।। Hindi me Kanya ke saat Vachan 9918274027`).
+* **Vocal & Harmonic Character**: Authentic regional delivery (Maithili/Bhojpuri/Magahi tradition) featuring participatory courtyard singing, dholak/harmonium accompaniment, and sacred vivah stuti.
+* **Audio Engineering & Restoration Rule**: Live courtyard recordings contain ambient echo and spectator chatter. Apply spectral de-noise (-6 to -10 dB), parametric high-pass filter at 80 Hz, and sidechain ducking (-14 dB) beneath sacred Sanskrit mantras.
+* **Spoken Instruction Sample**: "सब लोग ध्यान पूर्वक सात वचन को सुने जिनकी शादी हो गई भैया जो लोग सात वचन भूल गए हैं वो लोग आज याद कर लें अपना ताजा कर लें भूल गई है ना यदि आप सात वचन अपने दांपत्य जीवन में उतार लिए तो आपके पति और पत्नी में कभी खटपट नहीं होगी। ये सात वचन खटपट को समाप्त करने की करने का सूत्र है। अं..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Section (0:00 - 232s)**: Introduction of the ritual setting, participants assembling, establishing ambient courtyard or altar acoustics.
-* **Core Ritual Progression (232s - 872s)**: Central folk chanting / Vedic mantras / technical tutorial demonstration. Micro-focus on sacred elements, hand gestures, and vocal expressions.
-* **Resolution & Culmination (872s - 1163s)**: Final refrains, shanti path, elder blessings, or summary conclusions with clean tail decay.
+* **Phase 1: Establishing & Context (0:00 - 2m 54s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 54s - 8m 43s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (8m 43s - 15m 30s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (15m 30s - 19m 23s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

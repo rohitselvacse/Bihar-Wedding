@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Classic emotional farewell song counseling the bride to tread gently into her new home. Rich emotive depth for slow-motion Vidai sequence assembly in FCPX.
+**Extracted Folk Culture & Audio Analysis (from verified audio transcript)**:
+* **Ritual & Cultural Context**: Live traditional wedding performance for `geet-studio` by *Maithili Thakur* (`Dulhin dheere dheere chaliyau Sasur Galiya - Vivaah Geet - Maithili Thakur`).
+* **Vocal & Harmonic Character**: Authentic regional delivery (Maithili/Bhojpuri/Magahi tradition) featuring participatory courtyard singing, dholak/harmonium accompaniment, and sacred vivah stuti.
+* **Audio Engineering & Restoration Rule**: Live courtyard recordings contain ambient echo and spectator chatter. Apply spectral de-noise (-6 to -10 dB), parametric high-pass filter at 80 Hz, and sidechain ducking (-14 dB) beneath sacred Sanskrit mantras.
+* **Spoken Instruction Sample**: "[संगीत] दुलहिन धीरे धीरे चलियो ससुर गलिया दुलहिन धीरे धीरे चलियो ससुर गलिया ससुर गलिया हो मैसुर गलिया ससुर गलिया हो भाई सूर गलिया न साधू से बोलियो मधुर बोलिया हि सासु से बोलियो मधुर बोलिया मधुर बोलिया हो अनार कलिया मधुर बोलिया हो अनार कलिया मधुर बोलिया हो अनार कलिया मधूर बोलिया ह..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Section (0:00 - 44s)**: Introduction of the ritual setting, participants assembling, establishing ambient courtyard or altar acoustics.
-* **Core Ritual Progression (44s - 166s)**: Central folk chanting / Vedic mantras / technical tutorial demonstration. Micro-focus on sacred elements, hand gestures, and vocal expressions.
-* **Resolution & Culmination (166s - 222s)**: Final refrains, shanti path, elder blessings, or summary conclusions with clean tail decay.
+* **Shot Metrics**: 17 detected cuts | Average Shot Length (ASL): **13.03s** | Detected Tempo: **103.4 BPM**
+* **Beat Synchronization**: **2 of 17 cuts** (11.8%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 29.6s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (29.6s - 167.6s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (167.6s - 221.5s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

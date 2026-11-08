@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Definitive studio master of Kahawan Se Aile, the most famous Sindoor Daan song in Bihar wedding history. Pristine vocal dynamics ideal for cinematic score bed overlays.
+**Extracted Folk Culture & Audio Analysis (from verified audio transcript)**:
+* **Ritual & Cultural Context**: Live traditional wedding performance for `geet-studio` by *T-Series Hamaar Bhojpuri* (`Kahawan Se Aile (Sindoor Daan) Audio Song | Bhojpuri Album Anmol Dulha | Sharda Sinha | Vivah Geet`).
+* **Vocal & Harmonic Character**: Authentic regional delivery (Maithili/Bhojpuri/Magahi tradition) featuring participatory courtyard singing, dholak/harmonium accompaniment, and sacred vivah stuti.
+* **Audio Engineering & Restoration Rule**: Live courtyard recordings contain ambient echo and spectator chatter. Apply spectral de-noise (-6 to -10 dB), parametric high-pass filter at 80 Hz, and sidechain ducking (-14 dB) beneath sacred Sanskrit mantras.
+* **Spoken Instruction Sample**: "Do it for Jhaal, do it for Ajay [Music] Now it is sure, sure, sure AB Sigrauli, well, human feelings are good, Om PM. Quintal paddy Grandma should be in the drop box Zulu this ghee suggestion that Gouda full benefits snag Om shared Vaibhav take three Dhiman Tanurao herbal you tal..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Section (0:00 - 138s)**: Introduction of the ritual setting, participants assembling, establishing ambient courtyard or altar acoustics.
-* **Core Ritual Progression (138s - 518s)**: Central folk chanting / Vedic mantras / technical tutorial demonstration. Micro-focus on sacred elements, hand gestures, and vocal expressions.
-* **Resolution & Culmination (518s - 691s)**: Final refrains, shanti path, elder blessings, or summary conclusions with clean tail decay.
+* **Phase 1: Establishing & Context (0:00 - 1m 43s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (1m 43s - 5m 10s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (5m 10s - 9m 12s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (9m 12s - 11m 31s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

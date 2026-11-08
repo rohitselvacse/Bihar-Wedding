@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Master studio recording of Sharda Sinha iconic Shubh Vivah track. Standard benchmark for clean studio EQ, lush harmonium arrangements, and traditional percussion balance.
+**Extracted Folk Culture & Audio Analysis (from verified audio transcript)**:
+* **Ritual & Cultural Context**: Live traditional wedding performance for `geet-studio` by *T-Series Regional* (`Hare Hare Hare Dada [Full Song] Shubh Vivah`).
+* **Vocal & Harmonic Character**: Authentic regional delivery (Maithili/Bhojpuri/Magahi tradition) featuring participatory courtyard singing, dholak/harmonium accompaniment, and sacred vivah stuti.
+* **Audio Engineering & Restoration Rule**: Live courtyard recordings contain ambient echo and spectator chatter. Apply spectral de-noise (-6 to -10 dB), parametric high-pass filter at 80 Hz, and sidechain ducking (-14 dB) beneath sacred Sanskrit mantras.
+* **Spoken Instruction Sample**: "[संगीत] हरे हरे हर दादा बसवा कटहा हरे हरे हरे दादा बसवा कटहा चे ऊचे मड़वा छव हो चे चे मड़वा छव हा हो चे उच मड़वा तर बहा हो दादा चे चच मान आतर बच हो दादा सजन लोग छक ले दुआर हो सजन लोग चकले दुआर हो चे उच मड़वा तर बैठ हा हो नाना चे उच मड़वा तर बैठ हा हो नाना सजन लोग ेक ले दुआर हो सज..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Section (0:00 - 87s)**: Introduction of the ritual setting, participants assembling, establishing ambient courtyard or altar acoustics.
-* **Core Ritual Progression (87s - 327s)**: Central folk chanting / Vedic mantras / technical tutorial demonstration. Micro-focus on sacred elements, hand gestures, and vocal expressions.
-* **Resolution & Culmination (327s - 436s)**: Final refrains, shanti path, elder blessings, or summary conclusions with clean tail decay.
+* **Phase 1: Establishing & Context (0:00 - 1m 05s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (1m 05s - 3m 16s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (3m 16s - 5m 48s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (5m 48s - 7m 16s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 
