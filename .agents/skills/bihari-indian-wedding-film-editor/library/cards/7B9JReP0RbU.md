@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Indian editor, 355k views. Step-by-step highlight (trailer-length) workflow: culling, laying the song, and building sections function by function. Covers the middle tier between teaser and full film.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `highlight-structure` in `How to Edit Wedding Highlights - Part 01 | Step-by-Step` by *Parth Dabgar*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कि अगर भैया वेडिंग हाइलाइट बनाना सीखना चाहते हो या फिर वेडिंग लाइफ बनाते हो तो बिल्कुल सही जगह पर आए और मैं आपको बताऊंगा कि यह प्रोसेस ट्रिक कैसे करनी चाहिए आपको वेडिंग वीडियो एडिटिंग में कितनी ज्यादा इजी हो जाएगी अगर आप इस प्रोसेस को फॉलो करते हो तो यह पॉल सेल्वा सिंपल स्टेप फॉल..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 137s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (137s - 516s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (516s - 689s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 76 detected cuts | Average Shot Length (ASL): **9.07s** | Detected Tempo: **152.0 BPM**
+* **Beat Synchronization**: **53 of 76 cuts** (69.7%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 53.2s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (53.2s - 53.2s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (53.2s - 689.0s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

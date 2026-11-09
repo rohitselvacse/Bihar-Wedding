@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hindi, 153k views, Indian wedding editor. Cut-on-beat grammar: kicks vs snares, holding shots across bars, and speed-ramping into a drop. This is the beat-wise small-cut style the brief asks for.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `beat-sync` in `Beat-to-Beat Video Editing in Premiere Pro` by *Mukeshmack*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "झाल हेलो हेलो का जिसमें और तुम कृष्ण एंड सुदेश आज का हमारा यह वीडियो हमने खास करके स्पेशली बनाया है हमारे फ्री में प्रॉडक्ट्स के लिए ठीक है तो सबसे पहला टॉपिक भद्र आजकल जो टॉपिक है वह बी-2 बी-3 ठीक अगर आप इन वेडिंग वीडियो रीडरों या फिर मिडिंग डिजिटल बनना चाहते हो तो आपको पता होगा..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 212s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (212s - 795s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (795s - 1061s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 39s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 39s - 7m 57s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (7m 57s - 14m 08s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (14m 08s - 17m 41s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

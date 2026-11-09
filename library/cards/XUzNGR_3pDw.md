@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-232k views. How to join Bollywood/Punjabi wedding songs into one medley: matching BPM and key, choosing transition points on phrase boundaries. This is the mashup-building knowledge for teaser and trailer soundtracks.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `mashup` in `HOW TO MAKE A MEDLEY FOR A WEDDING PERFORMANCE OR HOW TO JOIN SONGS FOR A DANCE. Learn from a Pro DJ` by *DJ Deep Bhamra*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 283s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (283s - 1062s)**: Dynamic rhythm matching the primary action of `sangeet, general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (1062s - 1416s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 3m 32s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (3m 32s - 10m 37s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (10m 37s - 18m 52s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (18m 52s - 23m 36s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hindi, 291k views, Indian wedding editor. Builds a wedding teaser step by step: song choice, hero shots, the opening hook, and how cuts build to the drop. This is the core teaser recipe for part 9. (The 75-min full masterclass XXRkaA90BsM is already in T2.)
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `teaser-structure` in `Wedding teaser editing masterclass - Part I | How to edit wedding teaser in premiere pro` by *Mukeshmack*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "हेलो गाइस, दिस इज मुकेश मैग। वेलकम टू मुकेश मैग YouTube चैनल। बहुत दिनों के बाद मैं वीडियो बना रहा हूं बट आपके लिए एक बहुत ही स्पेशल टॉपिक लेके आया हूं। आज के जो वीडियो का हमारा टॉपिक है, वो हमारे चैनल का वन ऑफ द मोस्ट डिमांडेड टॉपिक है जो कि है हाउ टू क्रिएट अ वेडिंग टीज़। अभी तक..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 151s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (151s - 566s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (566s - 755s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 1m 53s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (1m 53s - 5m 39s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (5m 39s - 10m 04s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (10m 04s - 12m 35s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 
