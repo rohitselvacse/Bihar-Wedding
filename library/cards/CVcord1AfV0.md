@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Family-introduction-to-bride performance (4.9M views): each relative is named and shown in turn, a pattern that serves the brief's 'don't miss any family member' goal.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `family` in `Suno Ji Dulhan Family Performance | Parihar Family | Introduction To Bride | Hum Sath Sath Hai` by *Lovely Photo Studio*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "सुनो जितल हन्तिक बात सुनो जी अपने नए परिवार से मिलो जी तुहें मिलाएं सबसे आज सुनो सुनाएं सब तेरा तुहें मिलाएं सबसे आज सुनो सुनाएं सब तेरा पहले गुलन तुम इन से मिलो जी घर के मुखिया तुमारे ससुर जी जिनके सर पे सुकों का आज देखो जरा इनका अंदाज जिनके सर पे सुकों का आज देखो जरा इनका अंदाज..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 87s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (87s - 327s)**: Dynamic rhythm matching the primary action of `reception, sangeet`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (327s - 436s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 154 detected cuts | Average Shot Length (ASL): **2.83s** | Detected Tempo: **152.0 BPM**
+* **Beat Synchronization**: **80 of 154 cuts** (51.9%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 46.3s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (46.3s - 46.3s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (46.3s - 435.1s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

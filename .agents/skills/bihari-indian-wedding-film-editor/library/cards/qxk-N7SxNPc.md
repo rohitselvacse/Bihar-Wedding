@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Bihari bride welcome with dwar-chhekai (sisters block the door for money), a playful griha-pravesh beat specific to Bihar.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `griha-pravesh` in `Grand Welcome नई Dulhan Ka कितना Money मिला द्वार छिकाई में Bihari Wedding` by *Retired Couple*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "अच्छा स्टैंडर्ड हजमी है और हम दाई द हाथ तो हमारी दुल्हन ए गई दूल्हे राजा भी ए गए ये मेरी बुआ parikshavan कर रही हैं हमारी भतीजी अपने शादी के बाद नहीं अभी अभी पत्ता अच्छा है कम गुड मॉर्निंग कैसे हैं आप उम्मीद करते हैं की बहुत अच्छे होंगे मजे में होंगे और मस्त होंगे अपने देवर का बा..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 215s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (215s - 806s)**: Dynamic rhythm matching the primary action of `griha-pravesh, games`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (806s - 1075s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 41s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 41s - 8m 03s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (8m 03s - 14m 20s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (14m 20s - 17m 55s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

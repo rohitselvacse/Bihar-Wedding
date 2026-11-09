@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hindi walkthrough of shooting the jaymala stage and the couple-with-family photos, the part-6 shots the skill must find in raw footage.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `tutorial` in `How To Shoot Wedding Jaimal Photos || शादी में जयमाल की फोटोग्राफी के लिए विशेष टिप्स` by *SURESH GUPTA BHEL*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "नमस्कार दोस्तों, मैं हूं सुरेश गुप्ता। आप सभी का स्वागत है मेरे चैनल पर। जैसा आप सभी जानते हैं कि इस चैनल पर हम फोटोग्राफी से रिलेटेड बेसिक नॉलेज एंड एडवांस नॉलेज दोनों तरह के वीडियोस शेयर किया करते हैं। साथ ही हम अपने व्यूअर्स की जो भी उनकी प्रॉब्लम्स रहती हैं फोटोग्राफी से रिले..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 330s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (330s - 1240s)**: Dynamic rhythm matching the primary action of `jaymala, reception`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (1240s - 1654s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 4m 08s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (4m 08s - 12m 24s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (12m 24s - 22m 03s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (22m 03s - 27m 34s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

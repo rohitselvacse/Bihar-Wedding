@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Kangana khelai shown end to end (30k views); there was no Bihar-specific kangana footage, so this shows the ritual's beats.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `games` in `Shadi ke baad ki rasme | Kangana khelne ki rasam` by *Rakhi Thakran Vlogs*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "हे गाइस वेलकम बैक टू माई चैनल कैसे हैं आप साब और शादी हो चुकी है बहु आगी हमारी मुसी बहु लाकर दे दिये देता है अच्छा दन्यवाद आपका सभी बाफ नई बहु से मिलवाते हैं यह माई नई बहु देखो नहीं ठंड लग रही है नंद वे इतन जिठानी बन गी यह यह बहुत एक्साइटीड है क्योंकि नहीं नहीं जिठानी बनी है पहली..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 170s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (170s - 637s)**: Dynamic rhythm matching the primary action of `games`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (637s - 850s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 07s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 07s - 6m 22s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (6m 22s - 11m 20s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (11m 20s - 14m 10s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

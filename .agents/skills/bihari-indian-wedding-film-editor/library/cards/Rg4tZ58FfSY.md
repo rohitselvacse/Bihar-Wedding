@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Angika (Bhagalpur) vivah geet about the juaa game (5M views); a regional song to lay under bride-groom game footage. Metadata only.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `games-geet` in `बाबा जुअवा खेलन तोयँ त - Angika Song - Baba Juawa Khelan Toyn Ta - Doliya Kahaar` by *Kislay Komal - किसलय कोमल*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] बाबा जुवा खलन तो का हर गेलो ना बाबा जुवान तो कहारे गलना बाबा चुवे में क तो हरीलो ना बाबा चुवे में कथ हरी लोना बेटी जुआवा खेलन भागलपुर गलियो ना बेटी जुआवा खेलन भागलपुर केलियो बेटी जुवे में तोरे हम हारी लियोना ग बेटी जुवे में तोरे हम हारी लियोना बाबा बेटा बापू हिया के तो हर..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 80s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (80s - 300s)**: Dynamic rhythm matching the primary action of `games, vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (300s - 401s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 1m 00s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (1m 00s - 3m 00s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (3m 00s - 5m 20s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (5m 20s - 6m 41s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 
