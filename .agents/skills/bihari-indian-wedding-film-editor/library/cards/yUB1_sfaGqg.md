@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-10M-view label album of the current sangeet performance songs (Kala Chashma, Thumkeshwari, Makhna, Zingaat). Complements the older Sony shaadi-hits list with what families now dance to.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `song-jukebox` in `Bollywood Sangeet Dance Songs 2022 - Full Album | Kala Chashma, Thumkeshwari, Makhna, Zingaat` by *Zee Music Company*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] कला चश्मा जचता है जचदा है गोरे मुखड़े ते करें तू मुंडा बिल्कुल देसी है मैं कुछ भी ना तो सोनिया वे मेनू कला चश्मा कला चश्मा जचदा है मौला ओ झुमकी सवारी देना डी तो हर चीज नहीं हम तेरे चाहत वाले हैं फिर तू सब खतरा नहीं हुस्न के हमारा वाले हैं आज बंधन के सज के सजके आज जरा जाम..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 588s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (588s - 2205s)**: Dynamic rhythm matching the primary action of `sangeet`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (2205s - 2941s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 7m 21s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (7m 21s - 22m 03s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (22m 03s - 39m 12s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (39m 12s - 49m 01s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

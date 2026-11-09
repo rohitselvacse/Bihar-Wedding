@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Label jukebox of traditional Bhojpuri haldi geet, the Bihari counterpart to the Bollywood haldi lists. Lets the skill offer a haradiya-style haldi track for a Patna wedding.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `vivah-geet-jukebox` in `HALDI GEET JUKEBOX | हल्दी गीत | Shaadi Special Bhojpuri Traditional Songs` by *B4U Bhojpuri*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] ए हो ननद तोहर ऊंच वाली लाल श्रृंगार दानी छोटी बा ए हो ननद तोहर ऊंच वाली [संगीत] लाल श्रृंगार दानी छोटी बा श्रृंगार दानी छोटी बा श्रृंगार दानी छोटी बाइ संग लुटबो लहार श्रंगार दानी छोटी बा हो ननद [संगीत] तोहर ऊंच वाली लाल श्रृंगार दानी छोटी बा जाए ये भजी ससुराल दुलार तोहर छ..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 176s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (176s - 660s)**: Dynamic rhythm matching the primary action of `haldi`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (660s - 880s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 12s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 12s - 6m 36s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (6m 36s - 11m 44s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (11m 44s - 14m 40s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

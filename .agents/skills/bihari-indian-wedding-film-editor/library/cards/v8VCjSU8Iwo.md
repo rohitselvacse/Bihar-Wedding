@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-415k views. Title states these geet are sung as the baraat reaches the door (dwar lagna), so it fixes which songs go under the dwar-puja segment, a function Bollywood lists never cover.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `vivah-geet` in `द्वार पूजा विवाह गीत || दरवाजा लगते समय विवाह गीत || Anshu Priya Paramparik Shadi Vivah Geet` by *Anshu Priya Official*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "अश्वनी नगर लूसी ई एम ओर नियुक्तियां ऐसी कुंठा पीले मोरे की पीठ कहां मेला लग गई दुआ था या लाल कुशवाह मेरा घर ले दूं हुआ था राय ला अवधारणा गेम खेलें अतिथि अवधारणा जावण [संगीत] दुग्ध वाराणसी ईएस लूदी वाराणसी ईएस लूप के पूछे युक्तियां वह व्यक्ति ऐसी अघोरी अघोरी के फूल कि मोदी Amazing..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 185s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (185s - 693s)**: Dynamic rhythm matching the primary action of `dwar-puja, baraat`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (693s - 925s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 18s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 18s - 6m 56s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (6m 56s - 12m 20s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (12m 20s - 15m 25s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

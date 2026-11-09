@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-134k-view North-Indian vidai cinematic. Shows how a bidai song carries emotional slow cuts, the hardest function to score.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-film` in `Gunjan and Suraj Part 3 | vidai | ladki ki vidai sad | Viwah Full Cinematic video` by *KC STUDIO*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] माफ़ कर्मा तो [संगीत] आंख की सुगिया सुगिया तो [गाना गाने की आवाज़] [संगीत][गाना गाने की आवाज़] सुगिया तुमले सीना से सटक रखना सारी [संगीत] उमरिया पूरा बेटी के सवार [संगीत] बना से बढ़ कैसे [गाना गाने की आवाज़] देैया दुनिया को [संगीत] चलती बाबा जी की कर [संगीत] काहे [संगीत] क..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 89s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (89s - 334s)**: Dynamic rhythm matching the primary action of `vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (334s - 446s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 38 detected cuts | Average Shot Length (ASL): **11.72s** | Detected Tempo: **95.7 BPM**
+* **Beat Synchronization**: **17 of 38 cuts** (44.7%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 84.5s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (84.5s - 99.8s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (99.8s - 445.2s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

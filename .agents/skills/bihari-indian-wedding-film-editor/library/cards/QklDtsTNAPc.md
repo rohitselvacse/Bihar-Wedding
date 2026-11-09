@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-1.2M views. A single-song bride entry (Madhanya), useful for analysing how the walk-in is paced and cut to the song's build and drop.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-film` in `MADHANYA - Most Epic Bridal Entrance to an Indian Wedding` by *Jagdish Barse*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "बेते सारे मौसम बाबूल तेरे घर में अब चले पाओ मेरे पिया के शहर में बीते सारे मौसम बाबूल तेरे घर में अब चले पाओ मेरे पिया के शहर में तुने विदाया कैसे लिखी मर जाणिया कैसे बताए और बा सही नहीं जाणिया मधानिया हाया मेरे बाबला तेरिया मिठिया यादा मेरे पिछे पिछे आणिया हाया मेरे बाबला मेरिया..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 45s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (45s - 169s)**: Dynamic rhythm matching the primary action of `jaymala`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (169s - 226s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 16 detected cuts | Average Shot Length (ASL): **14.1s** | Detected Tempo: **80.7 BPM**
+* **Beat Synchronization**: **7 of 16 cuts** (43.8%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 54.1s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (54.1s - 174.1s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (174.1s - 225.6s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

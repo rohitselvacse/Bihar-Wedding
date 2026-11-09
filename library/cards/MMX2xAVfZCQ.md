@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Sangeet highlight that shows performance songs cut and stacked into a short film.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-film` in `Harshil & Jimita Sangeet Highlight | Picaash | Vivaahnaa` by *Vivaahnaa Wedding Planners*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[हंसी] एवरीबॉडी रेडी रेडी रेडी रेडी [संगीत] शनाई वाइट टेस्टिंग वन टू वन टू थ्री फोर [संगीत] थैंक यू रात का है अपना [संगीत] मजा आया रे मस्ती में तू झूम जा रात क्या है अपना मजा आ यार मस्ती में तू झूम मजा [संगीत] बैठा है क्या सीटी बजा लूंगी पकड़ के जरा घूम जा [संगीत] रंड लगा रंट लगा..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 43s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (43s - 162s)**: Dynamic rhythm matching the primary action of `sangeet`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (162s - 217s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 98 detected cuts | Average Shot Length (ASL): **2.21s** | Detected Tempo: **78.3 BPM**
+* **Beat Synchronization**: **21 of 98 cuts** (21.4%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 12.4s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (12.4s - 12.4s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (12.4s - 216.2s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

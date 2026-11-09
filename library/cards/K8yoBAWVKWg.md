@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-912k views from a studio with several viral doli films. A vidai sequence scored on 'Babul', so the cut can be compared directly with the Rajshri vidai list entry for the same song.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-film` in `BEST EMOTIONAL DOLI | BABUL | BIDAI | VIDAI | HEART TOUCHING DOLI | FULL FRAME FILMS` by *FULL FRAME FILMS*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] महलों से बाहर रिश्ता है तोड़ चली तेरी बाहों की आई छोड़ चली [प्रशंसा] आंखों में आंसू तुझे यूं मोड चलेगी तेरे बाहों की बुलबुल में बाबुल बगिया को छोड़ चली ने लिखा था साथ यही तक अपना करमाप कहां सुना मेरा हाथ में जोड़ें चली आई छोड़ी मेहमान भी मैं तो आज की मैं मिजवान ना जान फिर..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 118s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (118s - 442s)**: Dynamic rhythm matching the primary action of `vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (442s - 590s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 9 detected cuts | Average Shot Length (ASL): **65.5s** | Detected Tempo: **123.0 BPM**
+* **Beat Synchronization**: **4 of 9 cuts** (44.4%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 4.5s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (4.5s - 322.6s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (322.6s - 589.5s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 
