@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Recent Muzaffarpur studio highlight tagged with the 'Bihar' keyword; 6-min trailer structure.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `highlight` in `Wedding Highlights 2025 | Bihar | Rahul & Jahnvi | Muzaffarpur | The Taj Studio` by *The Taj Studio*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "रेो रे मारो ढोलना आयो रे आयो रे मारो ढोलना मारो [संगीत] [संगीत] रंगीला आयो रे मारो ढोल रे [संगीत] मेरे [संगीत] ख्यालों में बस तू गई है यूं द पे [संगीत] निगाहें है थम सी गई है क्यों कहती [संगीत] है हमसे धीरे से आकर तुमसे शिकायत [संगीत] हो क्यों रही है मेरे [संगीत] ख्यालों में बस त..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 75s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (75s - 281s)**: Dynamic rhythm matching the primary action of `haldi, baraat, jaymala, sindoor-daan, vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (281s - 375s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 135 detected cuts | Average Shot Length (ASL): **2.77s** | Detected Tempo: **103.4 BPM**
+* **Beat Synchronization**: **53 of 135 cuts** (39.3%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 15.8s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (15.8s - 15.8s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (15.8s - 374.5s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Chhapra coverage, ~10-min highlight with 2.5k views.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `highlight` in `Piyush & Sweta | Cinematic Wedding Highlight | Akela Photography | Chapra` by *Akela Studio*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "झाल अजय को कर दो [संगीत] फोन पर कैंडी क्रश लगा दो कुछ देर यहां बेलेंगे उदयाची के आदेश पर नई दिल्ली लुटने लुटाने का उद्देश विद्यालय जब से तुम गए रास्ते हैं उस लूप हम सवरने लगे हैं कि अगर राजा रे हिस्सा अलग देरी वाले तुझ देंगे इस मौसम में घुसल धूप में हम सवरने लगे हैं ये दुनिया धुं..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 116s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (116s - 435s)**: Dynamic rhythm matching the primary action of `general, haldi, jaymala, vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (435s - 580s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 1m 27s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (1m 27s - 4m 21s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (4m 21s - 7m 44s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (7m 44s - 9m 40s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

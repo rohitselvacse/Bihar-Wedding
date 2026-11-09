@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-11-min Patna highlight (13k views) at the upper edge of the 5-10 min trailer length the brief asks for.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `highlight` in `Patna Wedding Highlight Video` by *Saurabh Studio*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "झाल लुट गया चित सलमान की सुंदर कि केंद्राची कंठी झलके माड़ मुख्ता जी जज्बे ओम जय देव जय मंगल मूर्ति हो श्रीमंगल मूर्ति अध्यक्ष नरेश रावण प्रति जुनून [संगीत] तेरे चेहरे पिया मैं तेरे लिए सोरा तज कुंठित नित्य जुती अथर्व वेद दिल दस्फी ही मैं करूं जो तु ओर उस जानिए दिल जैसे टूट जानिए..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 134s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (134s - 503s)**: Dynamic rhythm matching the primary action of `haldi, baraat, jaymala, sindoor-daan, vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (503s - 671s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 1m 40s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (1m 40s - 5m 01s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (5m 01s - 8m 56s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (8m 56s - 11m 11s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

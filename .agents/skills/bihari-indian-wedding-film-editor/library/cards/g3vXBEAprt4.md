@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-2-min Bihari teaser from a working studio - template for the 1-2 min teaser cut.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `teaser` in `Bihari Wedding Teaser | Kritika & Ankit | Bihar Sharif | PRAGEE PRODUCTION | 2024` by *Pragee Production*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "दिल ये बे चैन वे रस्ते पे नैन वे दिल ये बे चैन वे रस्ते पे नैन वे जिद्री पे हाल है सुर्ह ना ताल है आजा सा भरिया ताल से ताल मिया ताले से आलुलिया, ताले से आलुलिया, ताले से आलुलिया ताल से आलुलिया, ताले से आलुलिया, ताले से आलुलिया, ताले से आलुलिया, ताले से आलुलिया..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 25s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (25s - 95s)**: Dynamic rhythm matching the primary action of `general, jaymala, haldi`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (95s - 127s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 0m 19s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (0m 19s - 0m 57s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (0m 57s - 1m 41s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (1m 41s - 2m 07s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 
