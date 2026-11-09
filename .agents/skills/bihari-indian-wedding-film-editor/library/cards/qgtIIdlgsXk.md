@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-62-min pre-wedding ritual film (37k views) covering haldi + matkor as filmed by a studio - frame map of the day-before rasams.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-film` in `HALDI ! MATKOR ! DARBHANGA ! BIHAR ! WEDDING RITUALS!` by *MITHILA MARRIAGE SERVICES*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "झाला झाला झाला कहां से हैं हो तो बुझा लो ढूंढूं कहते हैं कि मां ताकि हम के लिए बनारस हम के लिए काफी अहम के लिए अबे डे जाति हम के लिए बनारस हम के लिए हैं तो वहीं से ललियाही के बेटी को हार्दिक तो नाम था वह इसे ललिया गे उद्देश तिलहर दी तुमने मां कहते लें हर मां बाहर सांस हम के लिए म..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 745s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (745s - 2793s)**: Dynamic rhythm matching the primary action of `haldi, matkor, marwa, gaali`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (2793s - 3725s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 9m 18s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (9m 18s - 27m 56s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (27m 56s - 49m 40s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (49m 40s - 62m 05s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

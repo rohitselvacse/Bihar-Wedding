@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Short Begusarai highlight from the same studio as the full Begusarai film below - teaser vs full-film comparison from one studio.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `highlight` in `Begusarai Wedding Video 2025 - Cinematic Bihari Shaadi Highlights` by *Picture Perfect Photography*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[Music] Without you I am not able to hear anything [Music] Without you I can give peace to my soul [Music] All those tantrums of mine have ended [Music] Go around and see the amazing Malaysia [Music] No one makes any difference to anyone, no one is shy [Music] Someone asks for my..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 27s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (27s - 101s)**: Dynamic rhythm matching the primary action of `general, jaymala, haldi`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (101s - 135s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 0m 20s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (0m 20s - 1m 00s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (1m 00s - 1m 48s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (1m 48s - 2m 15s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

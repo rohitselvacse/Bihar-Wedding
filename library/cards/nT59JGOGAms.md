@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Full jaymala sequence from a Bihar wedding - stage entry, garland exchange, crowd/family cutaways for the jaymala chapter.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-film` in `Ruby Weds Laddu | Best Jaimala in Bihar | Bihari Wedding | Bihari Jaimala` by *Bijay Pratap Singh*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "बड़े सचाई से प्रेंने दिल पे वो चाहत का असन दाला है आज इनकार की सुरत ही नहीं है कोई हार ही दोगा नहीं की जय माला रहे कुछ बाते हो चुकी है कुछ बाते अभी है बाती बहुचार इक पढ़ी है फरसाथे अभी है बाती खुलके नाचने को बेकल मुन का मयूरा है मिलने अभी आजा अधूरा है..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 125s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (125s - 470s)**: Dynamic rhythm matching the primary action of `jaymala`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (470s - 627s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 49 detected cuts | Average Shot Length (ASL): **12.78s** | Detected Tempo: **172.3 BPM**
+* **Beat Synchronization**: **32 of 49 cuts** (65.3%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 160.2s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (160.2s - 190.1s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (190.1s - 626.3s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

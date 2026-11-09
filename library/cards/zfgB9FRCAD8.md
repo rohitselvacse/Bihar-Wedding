@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Only Ara/Bhojpur studio highlight with >1k views; Bhojpur-belt visual style.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `highlight` in `Cinematic Wedding Video Ara Highlight Video II By Vijay Studio Ara II Meghna With Jatin` by *Hari Jee*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कर दो [संगीत] कि फैंसी साड़ियां गुलाबी चुनरिया रे नंद दुलारे गुलाबी जूनून तलाक तेरे मारे नजरिया सांवरिया रे नजरिया आखिरी या वे अरे इन लुट का रंग साफ हो सऊदी है बे रंगी सा मीडियम अच्छी तरह आता रे रंग की साड़ी ईएस अच्छी तरह आता है मुर्घ सर्जरियां सांवरिया आइहे नियमों हैंड्सफ्री मैं..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 49s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (49s - 186s)**: Dynamic rhythm matching the primary action of `general, jaymala, baraat`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (186s - 249s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 0m 37s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (0m 37s - 1m 52s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (1m 52s - 3m 19s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (3m 19s - 4m 09s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

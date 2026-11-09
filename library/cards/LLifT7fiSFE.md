@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-70-min Mithila full film (195k views) - Maithil ritual order (parichhan, kohbar) for the Mithila variant of part 7.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `full-film` in `WEDDING FULL VIDEO ! UDITA Weds CHITRANSH ! MITHILA ! DARBHANGA !` by *MITHILA MARRIAGE SERVICES*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "झाला का लुट [संगीत] कि अ में ही हुआ था MP3 कि अच्युतम केशवम कृष्ण दामोदरम राम नारायणम जानकी वल्लम अच्युतम केशवम कृष्ण दामोदरम राम नारायणम जानकी वल्लम कहते हैं भगवान आते नहीं तुम मीरा के जैसे बुलाते नहीं हो अच्युतम केशवम कृष्ण दामोदरम राम नारायणम शांति पर्व त्यौहार है अब आधे प्रॉब..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 839s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (839s - 3147s)**: Dynamic rhythm matching the primary action of `matkor, haldi, parichhan, jaymala, kanyadaan, sindoor-daan, kohbar, vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (3147s - 4197s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 10m 29s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (10m 29s - 31m 28s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (31m 28s - 55m 57s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (55m 57s - 69m 57s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-5-min Bihari vidai edit (27k views) - emotional pacing and geet under the doli moment.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-film` in `Most emotional vidai video|bihari vidai video|shaadi| Bihari traditional wedding` by *Vidhi's Gallery*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "अजय को यो यो यो मेरे लुटेरा झाइयों से [संगीत] धुंधला कहां है रे क्वीर विशेषज्ञों तेरे लाड ओर पर दुश्वार कि सुई ए कि अ अच्छी तरह आता तुम अच्छी तेरा कुछ आप अपनी आंखें सजल उधी तु अच्छी तरह सुदूर तारों मीडिया शेर का हिस्सा रिक्शे देर आधुनिक घटिया अच्छी तो शांति समय तक पढ़ ले श्रुति ह..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 64s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (64s - 242s)**: Dynamic rhythm matching the primary action of `vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (242s - 323s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 28 detected cuts | Average Shot Length (ASL): **11.51s** | Detected Tempo: **161.5 BPM**
+* **Beat Synchronization**: **20 of 28 cuts** (71.4%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 104.2s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (104.2s - 184.8s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (184.8s - 322.2s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

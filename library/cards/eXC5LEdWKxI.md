@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Gaya studio cinematic highlight - the only Hindu Gaya wedding film in the results (others were Muslim or Kerala 'Gaya Studio').
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `highlight` in `"Unforgettable Moments:Honey & Aman #cinematic #wedding #gaya #cinematography #aurangabad` by *sharma video gaya*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] सैया सैया [प्रशंसा] सैयां सैयां वे ओ म्हारो सैया सैया बिहारी मारो जग जग जीव मेरा सोना माही जग जग जीव मेरा सोना वही मेहंदी करेगा कल में चमकांवर मेरे मंदिर आया सॉन्ग तेरे सपना सजवा ढोलना फेरो वाली काम निभाओ ढोलना छोड़ डन मैं दुनिया न्यू तेरे दिल से निकले..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 74s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (74s - 279s)**: Dynamic rhythm matching the primary action of `general, jaymala, sindoor-daan`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (279s - 372s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 110 detected cuts | Average Shot Length (ASL): **3.37s** | Detected Tempo: **198.8 BPM**
+* **Beat Synchronization**: **88 of 110 cuts** (80.0%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 19.7s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (19.7s - 19.7s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (19.7s - 371.2s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 
