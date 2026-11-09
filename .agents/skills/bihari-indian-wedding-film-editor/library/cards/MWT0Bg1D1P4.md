@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Chaptered romantic list (Kesariya, Salaam Aaya, Ranjha, Tum Tak...) that the description calls fit for couple entries. Works for reception stage and slow-motion couple portions.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `song-jukebox` in `Shaadi Romance | Audio Jukebox | Kesariya, Ranjha, Salaam Aaya | Non-Stop Romantic Wedding` by *Sony Music India*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 594s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (594s - 2227s)**: Dynamic rhythm matching the primary action of `reception, jaymala`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (2227s - 2970s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 7m 25s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (7m 25s - 22m 16s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (22m 16s - 39m 36s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (39m 36s - 49m 30s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

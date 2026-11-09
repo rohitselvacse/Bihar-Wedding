@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Label-curated bride-entry list with chapters (Kudmayi, Aaj Sajeya, O Piya, Ek Ladki Ko Dekha, Sajna Hai Mujhe), the songs used when the bride walks to the jaymala stage.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `song-jukebox` in `Bridal Entry Songs | Kudmayi | Aaj Sajeya | O Piya | Ek Ladki Ko Dekha Toh Aisa Laga` by *Saregama Music*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "प्रीलोडेड गानों वाला कीपैड फोन धमाकेदार साउंड के साथ कावा [संगीत] मोबाइल सलमा सितारों वाली शकना दे शब आए रे बन्नों से बनने के मिलने की जो रतलाई शहनाई य बूजी सबकी आंखे बर आई रे शहनाई यूं बूजी सबकी आंखें बर आई हो 16 बरस के दो कदम चौखट के बाहर क्या गए तेरी कुड़माई के दिन आ गए हाय बन..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 217s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (217s - 814s)**: Dynamic rhythm matching the primary action of `jaymala, general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (814s - 1086s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 42s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 42s - 8m 08s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (8m 08s - 14m 28s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (14m 28s - 18m 06s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

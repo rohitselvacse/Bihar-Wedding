@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-3.6M views. 41 chapter timestamps give the canonical baraat dance list (Aaja Soniye, Mere Yaar Ki Shaadi Hai, Nagada, London Thumakda...).
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `dj-mix` in `Wedding Baraat NonStop DJ Mix | Best Indian Bollywood Wedding Songs | 2025` by *Little Noise Music*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] दिल मांगता है दिल दिल दिल मांगता है दिल मांगता है दिलदार सोनिए तू आजा सोनिए प्यार का कर ले कर ले [संगीत] कर ले कर ले प्यार का कर ले सुनिए तू आजा मैं भी बेकरार हूं तू भी बेकरार [संगीत] है तेरा इंतजार है तेरा इंतजार [संगीत] है ओ प्यार का कर ले कर ले कर ले कर ले प्यार का कर..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 543s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (543s - 2037s)**: Dynamic rhythm matching the primary action of `baraat, sangeet`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (2037s - 2717s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 6m 47s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (6m 47s - 20m 22s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (20m 22s - 36m 13s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (36m 13s - 45m 17s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

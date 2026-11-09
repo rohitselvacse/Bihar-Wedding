@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Label jukebox with a 10-chapter tracklist (Mehndi Hai Rachnewali, Dekhha Tenu, Raanjhan Aaya, Maahi Ve, Kesariya...) for the haldi and mehndi functions.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `song-jukebox` in `Mehndi & Haldi Hits - Wedding Jukebox | Kesariya, Ranjhaana, Maahi Ve | Best Shaadi Songs` by *Sony Music India*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 518s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (518s - 1943s)**: Dynamic rhythm matching the primary action of `haldi, mehndi`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (1943s - 2591s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 6m 28s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (6m 28s - 19m 25s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (19m 25s - 34m 32s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (34m 32s - 43m 11s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

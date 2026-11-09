@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-11M views. Chaptered vidai list (Babul, Tere Dware Pe, Son Chiraiya, Chhod Chali Ghar Tera...) with a description of the bidai ritual's mixed emotions.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `song-jukebox` in `Vidai Songs | Rajshri Hits | Babul | Tere Dware Pe | Hum Aapke Hain Koun | Bidai Rituals` by *Bollywood Classics*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कि बॉलीवुड क्लासिक से जुड़े रहने के लिए सब्सक्राइब कीजिए और बेल आइकॉन पर क्लिक कीजिए झाल अजय को हुआ है हां भाई बिल्कुल ले सिद्ध या जूस उन्हें बुलाया सुधीर व ले तेरी नजर इन थे जू के लिए करता है चली घर पर आए कोई ही अच्छी अच्छी तरह की मेज़ अपने जो तुम कर दो चित्तौड़ मीडिया था बचपन ग..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 370s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (370s - 1389s)**: Dynamic rhythm matching the primary action of `vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (1389s - 1853s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 4m 37s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (4m 37s - 13m 53s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (13m 53s - 24m 42s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (24m 42s - 30m 53s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

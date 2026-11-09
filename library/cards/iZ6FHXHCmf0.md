@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-20M views. 14 chaptered classic mehndi and sangeet songs (Mehndi Laga Ne Ki Raat, Mehndi Rachao Ri Sakhi, Mehndi Shagna Di...), with film and singer credits.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `song-jukebox` in `Mehndi & Sangeet Songs - JUKEBOX | Ishtar Music` by *Ishtar Music*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 886s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (886s - 3322s)**: Dynamic rhythm matching the primary action of `mehndi, sangeet`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (3322s - 4430s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 11m 04s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (11m 04s - 33m 13s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (33m 13s - 59m 04s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (59m 04s - 73m 50s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

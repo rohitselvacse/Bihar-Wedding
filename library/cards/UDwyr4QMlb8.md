@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-1.6M-view modern mashup of Sharda Sinha and Kalpana vivah geet, the Bihari equivalent of a Bollywood wedding mashup and usable as a teaser or trailer bed for a Patna wedding.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `mashup` in `Bihar Traditional Wedding Mashup | Bhojpuri Wedding Mashup | Sharda Sinha X Kalpna` by *Mithun Beatz*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "हम खेत बाकी और बाकी बरवा पीना हर हर बास के माता देखते सुहावन लागे रे म हर हरिया डूब पाना अ म हर हरिया डूब पाना चलनी के चार तल्हा सूप से पट धीरे धीरे हो भसुर धीरे धीरे धीरे धीरे हो भसुर धीरे धीरे हमरा मंडवा में आई हो धीरे धीरे हमरा मंडवा में आई रे धीरे धीरे हाथ ले घो ले ले डंडा लग..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 89s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (89s - 336s)**: Dynamic rhythm matching the primary action of `general, haldi, vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (336s - 449s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 495 detected cuts | Average Shot Length (ASL): **0.91s** | Detected Tempo: **99.4 BPM**
+* **Beat Synchronization**: **341 of 495 cuts** (68.9%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 17.7s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (17.7s - 17.7s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (17.7s - 448.6s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

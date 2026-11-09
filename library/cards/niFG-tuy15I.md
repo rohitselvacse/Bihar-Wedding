@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-17M views. Each chapter names its ritual: lagan geet, madwa, parichhan, haldi (Hardi Hardiya), dulha sajna, baraat, dwar pooja, kanyadaan, lava chhitaai, sindoor daan, chumawan, bidai. This gives the Bihari song-to-ritual map directly.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `vivah-geet-jukebox` in `SHUBH VIVAH | BHOJPURI VIVAH AUDIO SONGS JUKEBOX | SINGER - SHARDA SINHA` by *T-Series Hamaar Bhojpuri*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] आ पूरब दिशा से चल ले बेटी के बाबू पूरब दिशा से चल ले बेटी के बाबू दूल्हा के लगन चढ़ावे जी दूल्हा के लगन या धोतिया पिया ले रेशमी चदरिया जी धोतिया पिया ले रेशमी चदरिया जी मोहराली हले बेुम जी मोहराली ह सुमार जी चढ़ावे जी दूल्हा के लगन अपनी महलिया से निकले बेटा के दादा अपनी महल..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 834s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (834s - 3127s)**: Dynamic rhythm matching the primary action of `tilak, marwa, parichhan, haldi, baraat, dwar-puja, kanyadaan, sindoor-daan, vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (3127s - 4170s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 10m 25s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (10m 25s - 31m 16s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (31m 16s - 55m 36s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (55m 36s - 69m 30s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

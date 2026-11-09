@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-12M-view top-10 bidai compilation from a studio label. It fills out the vidai song pool beyond the Rajshri titles.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `song-jukebox` in `Bollywood Bidaai Songs - Bollywood's Top 10 Sad Wedding Songs` by *Shemaroo Filmi Gaane*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 676s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (676s - 2535s)**: Dynamic rhythm matching the primary action of `vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (2535s - 3381s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 8m 27s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (8m 27s - 25m 21s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (25m 21s - 45m 04s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (45m 04s - 56m 21s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 
