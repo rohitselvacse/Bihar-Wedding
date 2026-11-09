@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Marwa/madwa (mandap-raising) rasam explained - best-viewed dedicated marwa clip (5k).
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-vlog` in `Madwa Ceremony / Traditional Bihar Wedding Rituals` by *kanpur vlogger niyati mishra*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "के पहले विमान कैसे वापस आए हो कि आप सब बहुत अच्छे होंगे मैं भी बहुत अच्छी हूं तो आज मैं आप लोगों के साथ शेयर करने वाली हूं मड़वा की रस्म और अभी मैं फिरोजाबाद में आई हूं और यह जो शादी है यह मेरी भतीजी की शादी है और मैं आई हूं बड़ी मम्मी के घर वैसे तो हम लोग बिहार से बिलोंग करते है..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 52s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (52s - 195s)**: Dynamic rhythm matching the primary action of `marwa`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (195s - 260s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 53 detected cuts | Average Shot Length (ASL): **4.91s** | Detected Tempo: **161.5 BPM**
+* **Beat Synchronization**: **30 of 53 cuts** (56.6%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 163.7s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (163.7s - 164.4s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (164.4s - 260.0s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

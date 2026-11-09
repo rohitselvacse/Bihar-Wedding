@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Parichhan of the groom at the door with women's teasing - the non-Mithila Bihari version (5.5k views).
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-vlog` in `परिछन की रस्म। भाभी लोगों ने दुल्हा के गाल पे लोढ़ा से ऐसे मारा की दुल्हा मंडप में गिरते गिरते बचे।` by *Shikha Om Pandit vlogs*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कर दो [संगीत] अजय को कि अ अ अ अब कैटरीना कैफ सुंदरता बनाकर रॉ योर दुआरे सुंदर प्रणाम दुर्ग चलो सखी परिचय न आरती उतारू रे सखी परिचय पिंपल आर यू झालावाड़ दुआरे सुंदरता हालांकि चुनाव आयोग दुआर है चलो सकती परिचय न आरती उतारे तेरी आरती थोड़ा बॉयज चल सका भरी अरबी अवतार है MP3 जाखल रोड..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 87s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (87s - 326s)**: Dynamic rhythm matching the primary action of `parichhan, dwar-puja`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (326s - 435s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 206 detected cuts | Average Shot Length (ASL): **2.11s** | Detected Tempo: **152.0 BPM**
+* **Beat Synchronization**: **121 of 206 cuts** (58.7%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 8.4s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (8.4s - 8.4s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (8.4s - 434.8s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

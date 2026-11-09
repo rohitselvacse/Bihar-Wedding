@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Pandit performs/explains dwar puja vidhi in full - covers the priest/mantra part of brief part 5 for the baraat arrival.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `priest-explainer` in `द्वार पूजन।। संपूर्ण सरल विधि` by *Acharya Parmendra ji*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "मंगलम भगवान दती मंगलम मूषक ध्वज मंगलम पार्वती पुत्र मंगलाय तनो ग हरि ओम ओम पवित्र पवित्र सर्वांगतो यारे पुंडरे काक्षम सियाच पुंडरी का पुन पुंडरी का ओम केशवाय नमः केशवा पुन ओम माधवाय नमः माधव पुनतो ओम नारायणाय नमः नारायण पुन ओम ऋषिकेशय नमः गोविंदाय नमो नम पवित्री धारण पवित्र वैष्ण..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 568s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (568s - 2131s)**: Dynamic rhythm matching the primary action of `dwar-puja, baraat`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (2131s - 2842s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 7m 06s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (7m 06s - 21m 18s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (21m 18s - 37m 53s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (37m 53s - 47m 22s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

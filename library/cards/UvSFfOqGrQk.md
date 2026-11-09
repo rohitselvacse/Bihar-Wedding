@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Short matkor explainer (30k views) - what the women do, items used, geet.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-vlog` in `Matkor Ceremony || Bihar wedding Matkor ceremony` by *kanpur vlogger niyati mishra*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "हेलो हेलो एवरीवन कैसे हो आप सब आए हो कि आप सब बहुत अच्छी होगी मैं भी बहुत अच्छी हूं तो आज मैं आपके साथ शेयर करने वाली हूं मटकोर कि रसूल तो यहां पर आप देख सकते हो कि पूजा हो रही है ढोलक की तो हमारे यहां की जो नाउन होती है यह ढोलक बजाती हैं और उसके बाद इस ढोलक की पूजा भी होती है तो..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 52s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (52s - 198s)**: Dynamic rhythm matching the primary action of `matkor`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (198s - 264s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 20 detected cuts | Average Shot Length (ASL): **13.18s** | Detected Tempo: **129.2 BPM**
+* **Beat Synchronization**: **8 of 20 cuts** (40.0%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 54.8s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (54.8s - 160.2s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (160.2s - 263.6s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-50-min vlog of sindoor daan into kohbar, including kohbar games - one of few long kohbar recordings (15.5k views).
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-vlog` in `Bihari Wedding - Sindoor Daan & Kohbar Rasam` by *Simran the daily drift*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 595s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (595s - 2232s)**: Dynamic rhythm matching the primary action of `sindoor-daan, kohbar, games`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (2232s - 2976s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 7m 26s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (7m 26s - 22m 19s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (22m 19s - 39m 40s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (39m 40s - 49m 36s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

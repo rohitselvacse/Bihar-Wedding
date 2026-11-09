@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Bride's own vlog of haldi kutai, the first Bihari rasam (506k views) - spoken detail of haldi stages.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-vlog` in `शादी की पहली रस्म : हल्दी कुटाई | My Traditional & Aunthentic Bihari Wedding Rituals` by *Priyaashi 2.0*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "नहीं दीदी इस शादी कर रही है थोड़ा तो करना पड़ेगा [संगीत] लो [हंसी] ममी आसू नहीं आना चाहिए आस अभ आ रहा है आसू आ रहा हैसे पूछ थे कितना रोएंगे रोना तो बहुत अभ च बजे से रोर जाता है सुसो करने से आंसू नहीं आता हे गाइ हेलो वेलकम बैक टू आवर चैनल आई एम प्रिया मी आयुष टुगेदर वि प्रिया क्या..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 331s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (331s - 1244s)**: Dynamic rhythm matching the primary action of `haldi, matkor`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (1244s - 1659s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 4m 08s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (4m 08s - 12m 26s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (12m 26s - 22m 07s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (22m 07s - 27m 39s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

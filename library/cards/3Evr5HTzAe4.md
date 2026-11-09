@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Bride welcome / griha pravesh done the Bihari way (48k views) - closes the ritual order in part 7.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-vlog` in `#pooja ki Duniya #vlog18 नई नवेली दुल्हन का स्वागत गृह प्रवेश बिहारी रीति रिवाज से भाई की शादी` by *POOJA KI DUNIYA*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कर दो हेलो हेलो माय YouTube चैनल कैसे हैं आप सब आई हॉप कि आप बहुत अच्छे होंगे मैं भी ठीक हूं आज मैं आपके साथ शेयर करने वाली अपने भाई की शादी की वीडियो पार्ट टू जैसा कि आपने देखा है कि पाठ व मैंने शेयर किया हुआ है अब पांडू शेयर कर रहे हो अब यहां पर हमारे घर आ गई है दुल्हन तो मां स..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 128s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (128s - 483s)**: Dynamic rhythm matching the primary action of `griha-pravesh, parichhan, games`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (483s - 644s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 133 detected cuts | Average Shot Length (ASL): **4.84s** | Detected Tempo: **112.3 BPM**
+* **Beat Synchronization**: **49 of 133 cuts** (36.8%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 40.2s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (40.2s - 40.2s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (40.2s - 643.7s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

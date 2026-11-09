@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Best-viewed chauthari explainer (11k) - post-wedding rasams at the in-laws' home, incl. games.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-vlog` in `दुल्हन के ससुराल आने के बाद का रस्म-रिवाज देखिए कैसे होता है बिहार में शादी के बाद चौठारी पूजा` by *Rise With Ravina*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "हेलो हेलो एवरीवन वेलकम बैक टू माय चैनल आज कौन सा रस्म होने वाला है चैनल आज होने वाला है जो ठाढ़ी वाला अटारी का रस में है इससे पहले आप लोगों ने देख लिया है भैया का तिलक उसके बाद हल्दी कलर्स मंडप और उसके बाद मेहंदी सेरेमनी और उसके बाद यह बारात वाला उसके बाद जब हमारी भाभी हमारे घर आ..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 186s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (186s - 697s)**: Dynamic rhythm matching the primary action of `chauthari, griha-pravesh, games`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (697s - 930s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 19s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 19s - 6m 58s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (6m 58s - 12m 24s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (12m 24s - 15m 30s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

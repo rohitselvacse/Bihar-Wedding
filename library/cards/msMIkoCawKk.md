@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Mandap-to-vidai sequence of a Mithila wedding with narration (41k views).
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `ritual-vlog` in `बिहार मिथिला के शादी मंडप में क्या-क्या रस्म होता है सब देखें और रोना गाना के साथ मार्मिक विदाई भी` by *Indu ki duniya*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कि नमस्कार * आइडियल कर का रेसिपी गुलाब में आप सबका बहुत बहुत स्वागत है यह शादी का लास्ट वीडियो में ले करके आ गई हूं इसमें तिलक तक का मैं दिखाई थी इसमें बाकी शादी की सारी रस्म में और विदा भी आपको देखने को मिलेगा तो राष्ट्र बने रहिएगा लाइक शेयर जरूर कीजिएगा तो यह तिलक हो गया था उसक..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 174s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (174s - 655s)**: Dynamic rhythm matching the primary action of `marwa, kanyadaan, pheras, sindoor-daan, vidai`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (655s - 874s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 2m 11s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (2m 11s - 6m 33s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (6m 33s - 11m 39s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (11m 39s - 14m 34s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 
