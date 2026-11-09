@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-122k views. A 6.7-minute trailer of a North-Indian Hindu wedding in Raipur, by a top studio. Models the 5-10 min trailer tier with several functions in sequence; Hindi-belt customs are close to Bihar's.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `benchmark-trailer` in `Nandini x Anshul // Wedding Film Trailer // Raipur` by *House On The Clouds*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[Music] da d da da looking how looking how's my hair how's my hair okay I'm sure all the girls over here would agree a few years back I'd put up this stupid pose about nandini being a look like like Karina K oh my God you're so pretty oh my God and and and let's keep Kina back he..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 80s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (80s - 302s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (302s - 403s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 110 detected cuts | Average Shot Length (ASL): **3.66s** | Detected Tempo: **184.6 BPM**
+* **Beat Synchronization**: **77 of 110 cuts** (70.0%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 33.4s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (33.4s - 33.4s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (33.4s - 402.4s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

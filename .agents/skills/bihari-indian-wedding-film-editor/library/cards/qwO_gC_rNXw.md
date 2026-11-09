@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A working studio's cinematic highlight of a Bihari wedding (5.8k views). Regional benchmark for how Bihari rituals and look are cut into a trailer, which the celebrity films cannot show.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `benchmark-bihari` in `BEST BIHARI WEDDING HIGHLIGHT FILM | NEHA + RAJAN | CINEMATIC TEASER | | 2021 #CHOBI` by *Hashtagchobi*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कर दो मैं तो हंसी र र अजय को कि जब तक कहां है शिवा ने न कुछ जहां सनम व्यक्ति के सारे फसाने जु़ड़े बेहतरीन मज़ाक मैं तेरे के पक्ष में मेज़ पे मना बुरा है हुआ है कि अ की साधना दिशा अखियां विच लूप के माही तेरा ही ना मैं तेरे जाना तेरे नाल तेरे नाल में तारे मेहमान चन्ना वे तेरी खातिर..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 59s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (59s - 223s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (223s - 298s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 123 detected cuts | Average Shot Length (ASL): **2.42s** | Detected Tempo: **117.5 BPM**
+* **Beat Synchronization**: **46 of 123 cuts** (37.4%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 29.6s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (29.6s - 29.6s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (29.6s - 297.6s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

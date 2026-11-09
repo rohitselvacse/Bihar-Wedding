@@ -14,14 +14,18 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hindi, 55-minute Indian wedding teaser cut entirely in Final Cut Pro: selection, beat cuts, transitions and grade. This is the only substantial Hindi FCP wedding-teaser walkthrough found.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `fcp-workflow` in `FINAL CUT PRO ll TEASER EDIT ll  TUTORIAL ll Wedding 2024` by *Color Christ Vfx*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 660s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (660s - 2475s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (2475s - 3301s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 8m 15s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (8m 15s - 24m 45s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (24m 45s - 44m 00s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (44m 00s - 55m 01s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

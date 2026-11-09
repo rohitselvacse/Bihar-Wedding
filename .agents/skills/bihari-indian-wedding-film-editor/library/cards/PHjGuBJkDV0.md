@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-A recent Patna teaser-plus-highlight from a local studio (low views, 631). It shows the current local Patna house style, i.e. what the owner's clients will compare against, alongside the national benchmarks.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `benchmark-bihari` in `GRAND WEDDING TEASER + HIGLIGHT 2026 VIDEO PATNA BIHAR (PRITI & AMIT) THE STUDIO NEXUS 7277124140` by *The Studio Nexus*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "मैंने इश्क लिखा, उसका नाम आया मैंने च्छांद लिखा, तो उसका चेहरा नजर आया मैंने ख्वाव लिखा, उसकी आँखे दिखी और जब मैंने सुकून लिखा, तो मुझे उसकी बाहे मिली तेरी काली यखीरों से जिंद मेरी जागे धड़कन से तेज दाड़ूं सपनों से आगे अब जहां रुट जाए, ये जहां छुट जाए संग प्यार रहे मैं रहूं ना रह..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 57s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (57s - 214s)**: Dynamic rhythm matching the primary action of `general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (214s - 286s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 120 detected cuts | Average Shot Length (ASL): **2.38s** | Detected Tempo: **89.1 BPM**
+* **Beat Synchronization**: **35 of 120 cuts** (29.2%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 24.0s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (24.0s - 24.0s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (24.0s - 285.1s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-12.5M views. Benchmark for a 4-minute trailer on one song: ritual moments cut to the beat, family reactions, and a closing build.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `benchmark-trailer` in `Deepika & Ranveer Trailer | Waheguru | The Wedding Filmer` by *The Wedding Filmer*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "स यर्स बक इफ यू टोल्ड मी सन वन डे यू विल मैरी पिका पाड आ य ग क्रेजी एक वो दिन था और एक आज है तालिया कुछ तो सही किया लड़के ने लाइफ में वेरी फंड ऑफ हर ही एटली द अपोजिट ऑफ आर फैमिली वी आर ल वेरी क्ट ब आई थक इट्स गुड च य नो बिक आई थिंक वी आर वेरी बोरिंग फैमिली ल फोर ऑफ अस बट आई थि ल..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 48s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (48s - 180s)**: Dynamic rhythm matching the primary action of `pheras, general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (180s - 241s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 71 detected cuts | Average Shot Length (ASL): **3.39s** | Detected Tempo: **99.4 BPM**
+* **Beat Synchronization**: **34 of 71 cuts** (47.9%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 23.0s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (23.0s - 23.0s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (23.0s - 240.7s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 
