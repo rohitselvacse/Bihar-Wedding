@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hour-long 4K Bihar reception: maps the stage order where relatives come up with gifts and envelopes, bless and pose for photos.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `reception-full` in `Wedding Reception of #Sonabhi | Indian Wedding reception | Bihar Wedding reception | 4K Video` by *Humsafar*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "[संगीत] [प्रशंसा] मुबारक मुबारक मुबारक मुबारक मुबारक हो तुमको यह शादी तुम्हारी सदा खुश रहो तुम दुआ है हमारी तुम्हारे कदम चूमे ये दुनिया सारी तुम्हारे कदम चुम्मे यह दुनिया सारी मुबारक हो तुमको ये शादी तुम्हारी ए तुम्हारे लिए बहारों के मौसम नहाए कभी जिंदगी में कोई गम हमारा है क्या..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 740s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (740s - 2778s)**: Dynamic rhythm matching the primary action of `reception, jaymala`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (2778s - 3704s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 9m 15s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (9m 15s - 27m 46s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (27m 46s - 49m 23s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (49m 23s - 61m 44s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

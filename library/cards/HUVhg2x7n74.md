@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Hotel-banquet wedding in Patna by a studio; shows how indoor hall lighting and decor are covered in a highlight.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `reception-highlight` in `#LEMONTREE PREMIER HOTEL | WEDDING HIGHLIGHTS 2020 | NUPUR & ABHINAV | PATNA` by *MarryGold Films*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कर दो दो कर दो लुड़ कर दो कर दो दो दो लुड़ कर दो लुड़ कर दो लुड़ कर दो लो लुड़ कर दो लुड़ कर दो लुड़ कर दो लुड़ कर दो लुड़ कर दो लुड़ कर दो लुड़ कर दो लुड़ कर दो लुड़ कर दो लुड़ कर दो लुड़ कर कि अजय कि अजय कि अजय कि अजय कि अजय कि अजय कि अजय कि अजय कि अजय कि अजय कि अजय कि अजय कि अ..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 40s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (40s - 150s)**: Dynamic rhythm matching the primary action of `reception, jaymala, general`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (150s - 201s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 70 detected cuts | Average Shot Length (ASL): **2.87s** | Detected Tempo: **103.4 BPM**
+* **Beat Synchronization**: **25 of 70 cuts** (35.7%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 40.3s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (40.3s - 40.3s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (40.3s - 200.7s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

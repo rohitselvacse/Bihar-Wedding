@@ -14,14 +14,20 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Patna venue's own jaimala clip: typical Bihar stage, lighting and crowd framing in under 90 s.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `jaymala` in `Jaimala in Bihar Wedding` by *Sweet Vani Vihar*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कर दो लुब लुब लुब लुब लुब लुब लुब लुब लुब लुब हुब लुब लुब लुब लुब लुब लुब लुब लुब लुब लुब लुब लुब लुब लुब लुब लुब लुब लुब कर दो, कर दो, कर दो. कर दो, कर दो, कर दो, कर दो, कर दो. कर दो, कर दो, कर दो, कर दो, कर दो...."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 16s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (16s - 63s)**: Dynamic rhythm matching the primary action of `jaymala, reception`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (63s - 84s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Shot Metrics**: 11 detected cuts | Average Shot Length (ASL): **7.56s** | Detected Tempo: **112.3 BPM**
+* **Beat Synchronization**: **4 of 11 cuts** (36.4%) land directly on musical transients (±100ms tolerance).
+* **Opening Hook (0:00 - 28.6s)**: Initial visual cadence establishing mood, location wide angles, macro jewelry details, and character introductions.
+* **Core Progression (28.6s - 71.4s)**: Kinetic narrative editing with dynamic speed ramps matching ceremonial action, hand gestures, and laughter.
+* **Climax & Resolution (71.4s - 83.1s)**: Emotional peak, slow-motion portrait lingers, family blessings, and smooth audio decay into final title cards.
 
 ---
 

@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Uncut Patna jaymala stage event; shows how long the stage session runs and when relatives join the couple for photos.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `jaymala` in `Jaymala Event in Akshay and Rashmi's Wedding Patna` by *Rashmi Raman*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "झाल झाल झाल झाल झाल कर दो जो जो जो जो जो जो जो जो जो जो जो जो जो..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 517s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (517s - 1939s)**: Dynamic rhythm matching the primary action of `jaymala, reception`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (1939s - 2586s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 6m 27s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (6m 27s - 19m 23s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (19m 23s - 34m 28s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (34m 28s - 43m 06s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

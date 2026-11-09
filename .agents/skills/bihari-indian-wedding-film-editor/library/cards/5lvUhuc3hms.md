@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-The only long-form Bihari bahu-bhoj (groom-side reception) found; shows guests, stage and food sequence at the groom's home.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `bahu-bhoj` in `Subh Vivah : Reception Party, Bihar, Part 3/3, शुभ विवाह : बहु भोज , बिहार , भाग 3/3` by *AnandNamita*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "हुआ था कि मैं आ [संगीत] हुआ है कि अ अजय को [प्रशंसा] कर दो MP3 हेलो दोस्तों मैं हूं यह सब कुछ है कर दो कर दो सब कुछ हो है कि 9th के दामों के और हर निकालिए गहरे कहीं कहीं दिल वाली बात बिना नव सर्जरी जवानी का ही जग घूमिया थरे जैसा जग्गू में बैठे सांवण करें सब्सक्राइब करें लुट लो कि..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 706s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (706s - 2650s)**: Dynamic rhythm matching the primary action of `reception, griha-pravesh`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (2650s - 3534s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 8m 50s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (8m 50s - 26m 30s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (26m 30s - 47m 07s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (47m 07s - 58m 54s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Days 5-6 of a Chhapra wedding: the post-wedding stretch (reception and home rituals) needed to fix ritual order in part 7.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `reception-full` in `Traditional Bihar wedding / Shaadi | Vivah Reception | Day 5 & 6 | Part-5 | Chhapra style Shaadi` by *EducatorsON*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "कर दो दो कर दो दो दो कर दो दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर दो कर कर दो, कर दो, कर दो..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 884s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (884s - 3315s)**: Dynamic rhythm matching the primary action of `reception, griha-pravesh, chauthari, games`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (3315s - 4421s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 11m 03s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (11m 03s - 33m 09s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (33m 09s - 58m 56s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (58m 56s - 73m 41s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 

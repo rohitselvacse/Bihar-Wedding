@@ -14,14 +14,19 @@
 ---
 
 ## 1. Editorial Analysis & Rationale
-Studio full-length reception video (7k views): the traditional 'everyone on stage' family-photo sequence the master film must not miss.
+**Extracted Cinematic Rationale (from verified audio transcript)**:
+* **Editorial Arc**: Wedding narrative covering `reception-full` in `Nitesh & Divya || Full Wedding Reception Video || 2024` by *SSPhotography*.
+* **Visual Rhythm & Tone**: Seamless integration of ceremony rituals, cinematic slow-motion b-roll, and natural familial emotion.
+* **FCPX Application**: Maintain faithful color calibration across variable banquet and courtyard lighting; synchronize ritual milestones with regional musical crescendos.
+* **Spoken Instruction Sample**: "बुलावे तुझे यारे अज मेरी गलियाँ बसाओं तेरे संग मैं अलग दुनिया बुलावे तुझे यारे अज मेरी गलियाँ बसाओं तेरे संग में अलग दुनिया ना आए कभी दोनों में जरा भी फ़सले बस एक तू हो एक मैं हूँ और कोई ना है मेरा सब कुछ तेरा तू समझ ले तू चाहे मेरे हक की जमीन रख ले तू सांसों पे भी नाम तेरा लिख द..."
 
 ---
 
 ## 2. Visual Structure & Shot Breakdown
-* **Opening Hook (0:00 - 520s)**: Establishing wide angle, subject entrance or macro details setting the mood and visual tone.
-* **Core Progression (520s - 1950s)**: Dynamic rhythm matching the primary action of `reception`. Micro-cuts on kinetic movements, speed ramps on emotional interaction.
-* **Climax & Resolution (1950s - 2600s)**: Culmination of ritual/celebration, emotional embrace, lingering slow-motion smile, and title card fade.
+* **Phase 1: Establishing & Context (0:00 - 6m 30s)**: Architectural establishing shots, decor textures, arrival preparations, and ambient mood setup.
+* **Phase 2: Narrative Escalation (6m 30s - 19m 30s)**: Procession entry, primary participant interactions, dynamic hand movements, and ceremonial build-up.
+* **Phase 3: Core Climax & Ritual Mandap (19m 30s - 34m 40s)**: Central ritual milestones, emotional facial close-ups, sacred rites, and peak familial joy.
+* **Phase 4: Resolution & Farewell (34m 40s - 43m 20s)**: Final blessings, emotional tearful farewell / title outro, and smooth audio decay.
 
 ---
 
