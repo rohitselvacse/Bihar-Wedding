@@ -162,12 +162,32 @@ class GradeAgent:
         patch = np.full((30, 30, 3), [110, 140, 195], dtype=np.uint8)
         skin_res = measure_skin_from_face_patch(patch)
 
-        print(f" -> Face skin tone engine active: Vectorscope angle {skin_res['flesh_line_angle']:.1f}° ({skin_res['skin_status']}).")
+        # measure_skin_from_face_patch degrades rather than raising: without
+        # OpenCV it returns only {"skin_detected": False, "skin_status":
+        # "opencv_missing"}, and the measurement keys are absent. Reading them
+        # unconditionally raised KeyError and took the whole pipeline down on
+        # any machine without OpenCV installed, which is most of them, since
+        # OpenCV is an optional dependency. Report the degraded state instead,
+        # and do not call the stage READY when the engine never loaded.
+        if skin_res.get("skin_detected"):
+            print(f" -> Face skin tone engine active: vectorscope angle "
+                  f"{skin_res['flesh_line_angle']:.1f}\u00b0 ({skin_res['skin_status']}).")
+            status = "READY"
+        else:
+            reason = skin_res.get("skin_status", "unavailable")
+            hint = (" Install it with: pip install opencv-python-headless"
+                    if reason == "opencv_missing" else "")
+            print(f" -> Face skin tone engine unavailable ({reason}); "
+                  f"skipping skin-tone audit.{hint}")
+            status = f"SKIPPED_{reason.upper()}"
+
         state["grade"] = {
-            "skin_status": skin_res["skin_status"],
-            "flesh_line_deviation": skin_res["flesh_line_deviation"],
-            "skin_ire": skin_res["skin_ire"],
-            "status": "READY",
+            "skin_status": skin_res.get("skin_status", "unavailable"),
+            "skin_detected": bool(skin_res.get("skin_detected")),
+            "flesh_line_angle": skin_res.get("flesh_line_angle"),
+            "flesh_line_deviation": skin_res.get("flesh_line_deviation"),
+            "skin_ire": skin_res.get("skin_ire"),
+            "status": status,
         }
         return state
 

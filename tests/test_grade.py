@@ -25,6 +25,17 @@ from grade import (NEUTRAL, classify_cast, classify_exposure, group_clips,  # no
 
 HAVE_FFMPEG = shutil.which("ffmpeg") is not None
 
+# Skin-tone measurement needs OpenCV, which is an optional dependency, so these
+# tests skip when it is absent rather than fail. A missing optional dependency
+# is not a defect in this repository, and a suite that cannot go green without
+# every optional extra installed stops being a usable signal: four red tests
+# here were masking a real crash elsewhere in the same run.
+try:
+    import cv2  # noqa: F401
+    HAVE_OPENCV = True
+except Exception:
+    HAVE_OPENCV = False
+
 
 def synth_colour(path: Path, hex_colour: str, duration: float = 2.0) -> Path:
     subprocess.run(
@@ -222,6 +233,8 @@ class TestMeasurementAgainstRealClips(unittest.TestCase):
         print(f"[✓] Grade report written for {len(groups)} groups")
 
 
+@unittest.skipUnless(HAVE_OPENCV, "OpenCV is required for skin-tone measurement "
+                                  "(pip install opencv-python-headless)")
 class TestSkinToneMeasurement(unittest.TestCase):
     """Test face-region skin tone measurement and vectorscope flesh line alignment."""
 

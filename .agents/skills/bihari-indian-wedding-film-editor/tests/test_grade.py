@@ -20,9 +20,21 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(BASE_DIR / "scripts"))
 
 from grade import (NEUTRAL, classify_cast, classify_exposure, group_clips,  # noqa: E402
-                   measure_clip, suggest_correction, write_report)
+                   load_face_detector, measure_clip, measure_skin_from_face_patch,
+                   suggest_correction, write_report)
 
 HAVE_FFMPEG = shutil.which("ffmpeg") is not None
+
+# Skin-tone measurement needs OpenCV, which is an optional dependency, so these
+# tests skip when it is absent rather than fail. A missing optional dependency
+# is not a defect in this repository, and a suite that cannot go green without
+# every optional extra installed stops being a usable signal: four red tests
+# here were masking a real crash elsewhere in the same run.
+try:
+    import cv2  # noqa: F401
+    HAVE_OPENCV = True
+except Exception:
+    HAVE_OPENCV = False
 
 
 def synth_colour(path: Path, hex_colour: str, duration: float = 2.0) -> Path:
@@ -219,6 +231,53 @@ class TestMeasurementAgainstRealClips(unittest.TestCase):
         self.assertIn("evidence, not a verdict", text,
                       "the report must state the limits of frame averages")
         print(f"[✓] Grade report written for {len(groups)} groups")
+
+
+@unittest.skipUnless(HAVE_OPENCV, "OpenCV is required for skin-tone measurement "
+                                  "(pip install opencv-python-headless)")
+class TestSkinToneMeasurement(unittest.TestCase):
+    """Test face-region skin tone measurement and vectorscope flesh line alignment."""
+
+    def test_face_detector_loads(self):
+        detector = load_face_detector()
+        self.assertIsNotNone(detector, "OpenCV FaceDetectorYN must load successfully")
+        print("[✓] OpenCV FaceDetectorYN (YuNet) loaded successfully")
+
+    def test_skin_on_flesh_line(self):
+        """Warm golden Indian skin tone (Rec.709) must sit along the vectorscope flesh line."""
+        import numpy as np
+        # BGR with healthy melanin balance: B=110, G=140, R=195
+        patch = np.full((50, 50, 3), [110, 140, 195], dtype=np.uint8)
+        res = measure_skin_from_face_patch(patch)
+        self.assertTrue(res["skin_detected"])
+        self.assertEqual(res["skin_status"], "on_flesh_line")
+        self.assertLessEqual(abs(res["flesh_line_deviation"]), 14.0)
+        self.assertGreater(res["skin_ire"], 40.0)
+        self.assertLess(res["skin_ire"], 65.0)
+        print(f"[✓] Indian skin tone verified on vectorscope flesh line: {res['flesh_line_angle']:.1f}° "
+              f"(dev {res['flesh_line_deviation']:+.1f}°, {res['skin_ire']:.1f}% IRE)")
+
+    def test_skin_magenta_tint(self):
+        """Banquet RGB LED flood lights casting magenta/purple spill on skin."""
+        import numpy as np
+        # Excessive red/blue: B=170, G=110, R=220
+        patch = np.full((50, 50, 3), [170, 110, 220], dtype=np.uint8)
+        res = measure_skin_from_face_patch(patch)
+        self.assertTrue(res["skin_detected"])
+        self.assertEqual(res["skin_status"], "magenta_tint")
+        self.assertIn("magenta", res["fcp_recommendation"].lower())
+        print(f"[✓] Magenta LED face spill flagged: {res['flesh_line_deviation']:+.1f}° deviation")
+
+    def test_skin_yellow_tint(self):
+        """Turmeric haldi ceremony paste reflection casting yellow spill on skin."""
+        import numpy as np
+        # High green/red, low blue: B=70, G=190, R=220
+        patch = np.full((50, 50, 3), [70, 190, 220], dtype=np.uint8)
+        res = measure_skin_from_face_patch(patch)
+        self.assertTrue(res["skin_detected"])
+        self.assertEqual(res["skin_status"], "yellow_tint")
+        self.assertIn("yellow", res["fcp_recommendation"].lower())
+        print(f"[✓] Haldi yellow face reflection flagged: {res['flesh_line_deviation']:+.1f}° deviation")
 
 
 if __name__ == "__main__":

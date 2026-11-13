@@ -60,5 +60,49 @@ class TestAgentGraph(unittest.TestCase):
         print("[✓] Critic agent successfully flagged unbalanced family & rejected signoff")
 
 
+class TestGradeAgentDegradesCleanly(unittest.TestCase):
+    """The grade stage must survive a missing optional dependency.
+
+    measure_skin_from_face_patch degrades rather than raising: without OpenCV it
+    returns only {"skin_detected": False, "skin_status": "opencv_missing"} and
+    the measurement keys are absent. GradeAgent read flesh_line_angle,
+    flesh_line_deviation and skin_ire unconditionally, so it raised KeyError and
+    took the entire pipeline down on any machine without OpenCV, which is most
+    of them since OpenCV is optional. It also reported status READY while doing
+    so, claiming an engine that had never loaded.
+    """
+
+    def _run_with(self, skin_result):
+        import agent_graph_orchestrator as ago
+
+        original = ago.measure_skin_from_face_patch
+        ago.measure_skin_from_face_patch = lambda *a, **k: skin_result
+        try:
+            return ago.GradeAgent().run({})["grade"]
+        finally:
+            ago.measure_skin_from_face_patch = original
+
+    def test_missing_opencv_does_not_raise(self):
+        grade = self._run_with({"skin_detected": False, "skin_status": "opencv_missing"})
+        self.assertFalse(grade["skin_detected"])
+        self.assertNotEqual(grade["status"], "READY",
+                            "a stage whose engine never loaded must not report READY")
+        self.assertIn("opencv_missing", grade["status"].lower())
+        print("[✓] Grade stage survives missing OpenCV and reports it honestly")
+
+    def test_empty_patch_does_not_raise(self):
+        grade = self._run_with({"skin_detected": False, "skin_status": "empty_patch"})
+        self.assertNotEqual(grade["status"], "READY")
+
+    def test_successful_measurement_still_reports_ready(self):
+        grade = self._run_with({
+            "skin_detected": True, "skin_status": "on_flesh_line",
+            "flesh_line_angle": 123.4, "flesh_line_deviation": 0.4, "skin_ire": 62.0,
+        })
+        self.assertEqual(grade["status"], "READY")
+        self.assertEqual(grade["flesh_line_angle"], 123.4)
+        print("[✓] Grade stage still reports READY on a real measurement")
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)

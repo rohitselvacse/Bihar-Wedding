@@ -22,3 +22,13 @@ tqdm>=4.64.0
 # and screen-time auditing all run on embeddings from any source.
 #
 #   pip install insightface onnxruntime
+#
+# ---------------------------------------------------------------------------
+# Optional: face-region skin tone measurement for scripts/grade.py
+#
+# Needed only for the vectorscope flesh-line audit, which measures skin tone
+# inside detected faces. Exposure, colour cast and grade grouping all work
+# without it, and the pipeline reports the audit as skipped rather than
+# failing.
+#
+#   pip install opencv-python-headless
